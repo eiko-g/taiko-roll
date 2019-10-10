@@ -1,0 +1,21 @@
+{
+    "songList": [{
+            "name": "百花繚乱",
+            "category": "Namco",
+            "branch": true,
+            "level": {
+                "hard": 4,
+                "oni": 8
+            }
+        },
+        {
+            "name": "燎原ノ舞",
+            "category": "Namco",
+            "branch": false,
+            "level": {
+                "hard": 8,
+                "oni": 10
+            }
+        }
+    ]
+}

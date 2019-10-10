@@ -1,7 +1,1 @@
-body {
-  background: url("../img/bg.jpg") center center;
-  margin: 0;
-  padding: 0;
-}
-
-/*# sourceMappingURL=style.css.map */
+*,*::before,*::after{box-sizing:border-box}body{background:url("../img/bg.jpg") center center;margin:0;padding:0}.main-body{padding:30px;max-width:1200px}.main-body .result{border:5px #ffd81e solid;background-color:#fff;padding:15px}.main-body .result-name{color:#ec1e06;margin:0;padding:0;font-size:32px;line-height:1.5;text-align:center}/*# sourceMappingURL=style.css.map */
