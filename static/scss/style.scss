@@ -18,6 +18,7 @@ body {
         border: 5px #FFD81E solid;
         background-color: #fff;
         padding: 15px;
+        box-shadow: 0 0 5px #999;
 
         &-name {
             color: #EC1E06;
@@ -26,6 +27,21 @@ body {
             font-size: 32px;
             line-height: 1.5;
             text-align: center;
+        }
+    }
+
+    .roll {
+        margin-top: 30px;
+
+        &-button {
+            width: 100%;
+            font-size: 18px;
+            padding: 10px;
+            color: #fff;
+            background-color: #EC1E06;
+            border: 3px solid #ffa66b;
+            border-right-color: #b53000;
+            border-bottom-color: #b53000;
         }
     }
 }
