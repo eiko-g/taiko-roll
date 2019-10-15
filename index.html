@@ -18,12 +18,20 @@
     <div class="main-body">
         <div class="result">
             <p lang="ja" id="result-name" class="result-name">トータル・エクリプス 2035 ～少女の時空皆既日食～</p>
+            <p id="result-name-cn" class="result-name-cn">中文名</p>
+            <p class="result-level"><span id="result-level-name">鬼</span>：★x <span id="result-level-num">8</span>
+            </p>
         </div>
         <div class="roll">
             <button id="roll-button" class="roll-button">抽选曲目</button>
         </div>
         <div class="option">
             <button id="option-button" class="option-button">条件设置</button>
+        </div>
+        <div class="option-show">
+            <p><strong>抽取难度</strong>：<span id="option-show-level">未设置</span></p>
+            <p><strong>抽取星级</strong>：<span id="option-show-level-num-min">0</span> ~ <span
+                    id="option-show-level-num-max">0</span></p>
         </div>
         <div class="footer">
             <p>ver 0.0.1</p>
@@ -36,16 +44,16 @@
                 <h2 class="option-main-title">条件设置</h2>
                 <h3 class="option-title">包含难度</h3>
                 <div class="level-select">
-                    <input type="checkbox" class="level-input easy" name="level" id="level-easy" value="easy">
-                    <label for="level-easy" class="level-label">梅</label>
+                    <input type="checkbox" class="level-input easy" name="level" id="level-easy" value="梅"">
+                    <label for=" level-easy" class="level-label">梅</label>
 
-                    <input type="checkbox" class="level-input normal" name="level" id="level-normal" value="normal">
+                    <input type="checkbox" class="level-input normal" name="level" id="level-normal" value="竹">
                     <label for="level-normal" class="level-label">竹</label>
 
-                    <input type="checkbox" class="level-input hard" name="level" id="level-hard" value="hard">
+                    <input type="checkbox" class="level-input hard" name="level" id="level-hard" value="松">
                     <label for="level-hard" class="level-label">松</label>
 
-                    <input type="checkbox" class="level-input oni" name="level" id="level-oni" value="oni">
+                    <input type="checkbox" class="level-input oni" name="level" id="level-oni" value="鬼">
                     <label for="level-oni" class="level-label">鬼</label>
                 </div>
 
@@ -57,7 +65,7 @@
                 </div>
                 <div class="level-num">
                     <label for="level-num-min" class="level-num-label">最高等级：</label>
-                    <input type="number" class="level-num-input" name="level-num-min" id="level-num-min" min="1"
+                    <input type="number" class="level-num-input" name="level-num-max" id="level-num-max" min="1"
                         max="10" step="1" placeholder="1~10" required>
                 </div>
                 <button id="close-option" class="option-button">保存设置</button>
