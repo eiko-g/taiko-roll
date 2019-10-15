@@ -12,6 +12,7 @@ body {
 
 .main-body {
     padding: 30px;
+    margin: auto;
     max-width: 1200px;
 
     .result {
@@ -42,6 +43,12 @@ body {
             border: 3px solid #ffa66b;
             border-right-color: #b53000;
             border-bottom-color: #b53000;
+            outline: none;
+
+            &:active {
+                border-color: #b53000;
+                background-color: #b53000;
+            }
         }
     }
 }
