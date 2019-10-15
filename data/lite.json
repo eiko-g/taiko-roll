@@ -1,10 +1,14 @@
 {
+    "date": "2019-10-15",
     "songList": [{
             "name": "百花繚乱",
+            "name_cn": "百花缭乱",
             "category": "Namco",
             "branch": true,
             "level": {
-                "hard": 4,
+                "easy": 3,
+                "normal": 4,
+                "hard": 5,
                 "oni": 8
             }
         },
@@ -13,7 +17,9 @@
             "category": "Namco",
             "branch": false,
             "level": {
-                "hard": 8,
+                "easy": 4,
+                "normal": 6,
+                "hard": 7,
                 "oni": 10
             }
         }

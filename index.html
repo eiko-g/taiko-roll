@@ -22,8 +22,46 @@
         <div class="roll">
             <button id="roll-button" class="roll-button">抽选曲目</button>
         </div>
+        <div class="option">
+            <button id="option-button" class="option-button">条件设置</button>
+        </div>
         <div class="footer">
             <p>ver 0.0.1</p>
+        </div>
+    </div>
+
+    <div class="option-main">
+        <div class="option-body">
+            <form id="option-form">
+                <h2 class="option-main-title">条件设置</h2>
+                <h3 class="option-title">包含难度</h3>
+                <div class="level-select">
+                    <input type="checkbox" class="level-input easy" name="level" id="level-easy" value="easy">
+                    <label for="level-easy" class="level-label">梅</label>
+
+                    <input type="checkbox" class="level-input normal" name="level" id="level-normal" value="normal">
+                    <label for="level-normal" class="level-label">竹</label>
+
+                    <input type="checkbox" class="level-input hard" name="level" id="level-hard" value="hard">
+                    <label for="level-hard" class="level-label">松</label>
+
+                    <input type="checkbox" class="level-input oni" name="level" id="level-oni" value="oni">
+                    <label for="level-oni" class="level-label">鬼</label>
+                </div>
+
+                <h3 class="option-title">包含等级</h3>
+                <div class="level-num">
+                    <label for="level-num-min" class="level-num-label">最低等级：</label>
+                    <input type="number" class="level-num-input" name="level-num-min" id="level-num-min" min="1"
+                        max="10" step="1" placeholder="1~10" required>
+                </div>
+                <div class="level-num">
+                    <label for="level-num-min" class="level-num-label">最高等级：</label>
+                    <input type="number" class="level-num-input" name="level-num-min" id="level-num-min" min="1"
+                        max="10" step="1" placeholder="1~10" required>
+                </div>
+                <button id="close-option" class="option-button">保存设置</button>
+            </form>
         </div>
     </div>
 
