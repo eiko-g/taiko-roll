@@ -1,19 +1,34 @@
 "use strict";
 console.log('script.js loaded');
 let
-    songList,
+    songList = {},
     option = {};
 $(document).ready(function () {
     // 载入歌单
-    $.ajax({
-        type: "GET",
-        url: "./data/lite.json",
-        dataType: "json",
-        success: function (response) {
-            songList = response;
-            console.log(songList);
-        }
-    });
+    let loadFileCount = 0;
+    function loadSongList(fileName) {
+        $.ajax({
+            type: "GET",
+            url: "./data/" + fileName + ".json",
+            dataType: "json",
+            done: function (response) {
+                songList[fileName] = response;
+                console.log(songList);
+            },
+            fail: function () {
+                if (loadFileCount < 10) {
+                    loadFileCount++;
+                    loadSongList(fileName);
+                    console.log('载入文件失败：' + fileName + '，失败次数：' + loadFileCount);
+                } else {
+                    alert(fileName + '.json 载入失败次数过多，请刷新页面重试');
+                    loadFileCount = 0;
+                }
+            }
+        });
+    };
+    loadSongList('lite');
+    loadSongList('taiko14old');
 
     // 设置相关
     $(document).on('click', '#option-button', function () {
