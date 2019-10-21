@@ -11,11 +11,14 @@ $(document).ready(function () {
             type: "GET",
             url: "./data/" + fileName + ".json",
             dataType: "json",
-            done: function (response) {
+        }).done(
+            function (response) {
+                console.log(response);
                 songList[fileName] = response;
                 console.log(songList);
-            },
-            fail: function () {
+            }
+        ).fail(
+            function () {
                 if (loadFileCount < 10) {
                     loadFileCount++;
                     loadSongList(fileName);
@@ -25,10 +28,11 @@ $(document).ready(function () {
                     loadFileCount = 0;
                 }
             }
-        });
+        )
     };
     loadSongList('lite');
     loadSongList('taiko14old');
+    // loadSongList('test');
 
     // 设置相关
     $(document).on('click', '#option-button', function () {
