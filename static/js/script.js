@@ -93,7 +93,7 @@ $(document).ready(function () {
                 $('#result-level-num').text(selectedSong.level[option.difficulty]);
                 theA++;
                 console.log(theA);
-                if (theA > 20) {
+                if (theA > 50) {
                     $('#roll-button').prop('disabled', false);
                     theA = 0;
                 }
@@ -102,8 +102,8 @@ $(document).ready(function () {
                 rollSong();
             }
         }
-        for (let a = 0; a <= 20; a++) {
-            setTimeout(rollSong, 100 * a);
+        for (let a = 0; a <= 50; a++) {
+            setTimeout(rollSong, 50 * a);
         }
     });
 });
