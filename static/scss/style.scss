@@ -5,7 +5,7 @@
 }
 
 body {
-    background: url('../img/bg.jpg') center center;
+    background: url('../img/bg.jpg') top center;
     margin: 0;
     padding: 0;
 }
@@ -63,6 +63,10 @@ body {
             &:active {
                 border-color: #b53000;
                 background-color: #b53000;
+            }
+
+            &[disabled] {
+                opacity: .7;
             }
         }
     }
