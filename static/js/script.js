@@ -9,6 +9,10 @@ let
         'hard': '松',
         'oni': '鬼'
     },
+    songListText = {
+        'taiko14old': '旧框14旧基准',
+        'taiko14new': '旧框14【新】基准'
+    },
     temp;
 $(document).ready(function () {
     // 载入歌单
@@ -37,10 +41,9 @@ $(document).ready(function () {
             }
         )
     };
-    loadSongList('lite');
     loadSongList('taiko14old');
     loadSongList('taiko14new');
-    // loadSongList('test');
+    // loadSongList('errortest');
 
     // 设置相关
     $(document).on('click', '#option-button', function () {
@@ -51,19 +54,30 @@ $(document).ready(function () {
         console.log(formDataArray);
         let temp = formDataArray.filter(item => item.name == 'level');
         console.log(temp);
+
+        // 曲目难度
         option.difficulty = [];
         temp.map(item => option.difficulty.push(item.value));
         console.log(option.difficulty);
         if (option.difficulty.length !== 0) {
-            $('#option-show-level').text(difficultyText[option.difficulty]);
+            $('#option-show-difficulty').text(difficultyText[option.difficulty]);
         } else {
-            $('#option-show-level').text('未设置');
+            $('#option-show-difficulty').text('未设置');
         }
 
+        // 曲目等级
         option.levelMin = formDataArray.find(item => item.name == "level-num-min").value;
         $('#option-show-level-num-min').text(option.levelMin);
         option.levelMax = formDataArray.find(item => item.name == "level-num-max").value;
         $('#option-show-level-num-max').text(option.levelMax);
+
+        // 歌单选择
+        option.songListSelected = formDataArray.find(item => item.name == "songlist-select").value;
+        if (option.songListSelected.length !== 0) {
+            $('#option-show-songlist').text(songListText[option.songListSelected]);
+        } else {
+            $('#option-show-songlist').text('未设置');
+        }
 
         $('.option-main').removeClass('show');
         $('#roll-button').prop('disabled', false);
@@ -80,8 +94,8 @@ $(document).ready(function () {
         $('#roll-button').prop('disabled', true);
         let selectedSong, theA = 0;
         function rollSong() {
-            let random = selectFrom(0, songList['taiko14old'].songList.length - 1);
-            selectedSong = songList['taiko14old'].songList[random];
+            let random = selectFrom(0, songList[option.songListSelected].songList.length - 1);
+            selectedSong = songList[option.songListSelected].songList[random];
             console.log(selectedSong);
             temp = selectedSong;
             if (selectedSong.level[option.difficulty] >= option.levelMin && selectedSong.level[option.difficulty] <= option.levelMax) {

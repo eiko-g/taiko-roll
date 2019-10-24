@@ -13,7 +13,7 @@ body {
 .main-body {
     padding: 30px;
     margin: auto;
-    max-width: 1200px;
+    max-width: 600px;
 
     .result {
         border: 5px #FFD81E solid;
@@ -111,7 +111,7 @@ body {
 
     .option-body {
         width: 100%;
-        max-width: 1200px;
+        max-width: 600px;
         height: 100%;
         max-height: calc(100vh - 60px);
         padding: 15px;
@@ -131,6 +131,7 @@ body {
         .level-select {
             display: flex;
             justify-content: space-between;
+            flex-wrap: wrap;
 
             .level-input {
                 display: none;
@@ -156,6 +157,7 @@ body {
                 background-color: #fff;
                 border: 3px solid #CCC;
                 padding: 10px 15px;
+                margin: 10px 0;
                 font-size: 18px;
                 font-weight: bold;
             }
@@ -173,6 +175,28 @@ body {
                 &:focus {
                     border-color: #EC1E06;
                 }
+            }
+        }
+
+        .songlist-selection {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+
+            &-input {
+                display: none;
+
+                &:checked+.songlist-selection-label {
+                    border-color: #EC1E06;
+                }
+            }
+
+            &-label {
+                background-color: #fff;
+                border: 3px solid #CCC;
+                padding: 10px 15px;
+                margin: 10px 0;
+                font-size: 18px;
             }
         }
     }
