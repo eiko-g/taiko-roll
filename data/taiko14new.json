@@ -1131,7 +1131,7 @@
                 "hard": 2,
                 "oni": 4
             },
-            "name_cn": "哆啦A梦"
+            "name_cn": "哆啦A梦(PS4 1)"
         },
         {
             "category": "动画歌曲",
@@ -1142,7 +1142,7 @@
                 "hard": 3,
                 "oni": 4
             },
-            "name_cn": "哆啦A梦"
+            "name_cn": "哆啦A梦(NS1)"
         },
         {
             "category": "动画歌曲",
@@ -1153,7 +1153,7 @@
                 "hard": 4,
                 "oni": 7
             },
-            "name_cn": "光之美少女"
+            "name_cn": "光之美少女(AC14/Wii3)"
         },
         {
             "category": "动画歌曲",
@@ -1164,7 +1164,7 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": "每日妈妈"
+            "name_cn": "每日妈妈(AC15.4.6)"
         },
         {
             "category": "动画歌曲",
@@ -1175,7 +1175,7 @@
                 "hard": 5,
                 "oni": 5
             },
-            "name_cn": "宝可梦钻石珍珠"
+            "name_cn": "宝可梦钻石珍珠(AC14/Wii3)"
         },
         {
             "category": "动画歌曲",
@@ -1186,7 +1186,7 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "闪电十一人"
+            "name_cn": "闪电十一人(AC14)"
         },
         {
             "category": "动画歌曲",
@@ -1197,7 +1197,7 @@
                 "hard": 6,
                 "oni": 6
             },
-            "name_cn": "天装战队护星者"
+            "name_cn": "天装战队护星者(AC14/Wii3)"
         },
         {
             "category": "动画歌曲",
@@ -1208,7 +1208,7 @@
                 "hard": 4,
                 "oni": 6
             },
-            "name_cn": "蜡笔小新"
+            "name_cn": "蜡笔小新(AC15.5.4)"
         },
         {
             "category": "动画歌曲",
@@ -1219,7 +1219,7 @@
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": "火影疾风传"
+            "name_cn": "火影疾风传(AC14/Wii3)"
         },
         {
             "category": "动画歌曲",
@@ -1230,7 +1230,7 @@
                 "hard": 6,
                 "oni": 6
             },
-            "name_cn": "火影疾风传"
+            "name_cn": "火影疾风传(AC15.1.0)"
         },
         {
             "category": "动画歌曲",
@@ -1239,20 +1239,20 @@
                 "easy": 3,
                 "normal": 4,
                 "hard": 5,
-                "oni": 8
+                "oni": 7
             },
-            "name_cn": "钢之炼金术师"
+            "name_cn": "钢之炼金术师(AC15.2.0)"
         },
         {
             "category": "动画歌曲",
             "name": "GO-GO たまごっち！",
             "level": {
                 "easy": 1,
-                "normal": 3,
-                "hard": 5,
+                "normal": 2,
+                "hard": 4,
                 "oni": 7
             },
-            "name_cn": "拓麻歌子"
+            "name_cn": "拓麻歌子(AC15.2.0/WiiU 2/3DS2)"
         },
         {
             "category": "动画歌曲",
@@ -1263,7 +1263,7 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "家庭教师Reborn"
+            "name_cn": "家庭教师Reborn(AC15.4.6/WiiU 2)"
         },
         {
             "category": "动画歌曲",
@@ -1274,7 +1274,7 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "剧场版银魂"
+            "name_cn": "剧场版银魂(AC15.1.0/3DS2)"
         },
         {
             "category": "动画歌曲",
@@ -1285,7 +1285,7 @@
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": "假面骑士W"
+            "name_cn": "假面骑士W(AC14/PSPDX/DS3)"
         },
         {
             "category": "动画歌曲",
@@ -1296,7 +1296,7 @@
                 "hard": 6,
                 "oni": 6
             },
-            "name_cn": "小双侠"
+            "name_cn": "小双侠(AC14/Wii1)"
         },
         {
             "category": "动画歌曲",
@@ -1307,18 +1307,18 @@
                 "hard": 3,
                 "oni": 3
             },
-            "name_cn": ""
+            "name_cn": "(AC14/PSPDX/DS2)"
         },
         {
             "category": "动画歌曲",
             "name": "勇気100%",
             "level": {
                 "easy": 3,
-                "normal": 3,
-                "hard": 4,
+                "normal": 2,
+                "hard": 3,
                 "oni": 6
             },
-            "name_cn": "忍者乱太郎"
+            "name_cn": "忍者乱太郎(AC15.2.0)"
         },
         {
             "category": "动画歌曲",
@@ -1326,7 +1326,7 @@
             "level": {
                 "easy": 3,
                 "normal": 2,
-                "hard": 6,
+                "hard": 5,
                 "oni": 6
             },
             "name_cn": "柯南"
@@ -1340,18 +1340,18 @@
                 "hard": 7,
                 "oni": 6
             },
-            "name_cn": "Keroro军曹"
+            "name_cn": "Keroro军曹(AC14)"
         },
         {
             "category": "动画歌曲",
             "name": "Dragon Soul",
             "level": {
                 "easy": 2,
-                "normal": 3,
-                "hard": 5,
+                "normal": 1,
+                "hard": 4,
                 "oni": 6
             },
-            "name_cn": "龙珠"
+            "name_cn": "龙珠(NS1)"
         },
         {
             "category": "动画歌曲",
@@ -1362,14 +1362,14 @@
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": "龙珠"
+            "name_cn": "龙珠(NS1)"
         },
         {
             "category": "动画歌曲",
             "name": "ドラえもんのうた",
             "level": {
                 "easy": 1,
-                "normal": 1,
+                "normal": 2,
                 "hard": 3,
                 "oni": 3
             },
@@ -1384,15 +1384,15 @@
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": ""
+            "name_cn": "(AC14/DS2)"
         },
         {
             "category": "动画歌曲",
             "name": "おどるポンポコリン",
             "level": {
-                "easy": 2,
-                "normal": 3,
-                "hard": 4,
+                "easy": 1,
+                "normal": 2,
+                "hard": 3,
                 "oni": 4
             },
             "name_cn": "樱桃小丸子"
@@ -1406,24 +1406,24 @@
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": ""
+            "name_cn": "(AC14)"
         },
         {
             "category": "动画歌曲",
             "name": "タッチ",
             "level": {
                 "easy": 4,
-                "normal": 5,
+                "normal": 4,
                 "hard": 6,
                 "oni": 5
             },
-            "name_cn": ""
+            "name_cn": "(AC15.5.4)"
         },
         {
             "category": "动画歌曲",
             "name": "残酷な天使のテーゼ",
             "level": {
-                "easy": 3,
+                "easy": 4,
                 "normal": 4,
                 "hard": 6,
                 "oni": 7
@@ -1461,7 +1461,7 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "(3DS2)"
         },
         {
             "category": "动画歌曲",
@@ -1470,20 +1470,20 @@
                 "easy": "",
                 "normal": "",
                 "hard": "",
-                "oni": 10
+                "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "(3DS2)"
         },
         {
             "category": "动画歌曲",
             "name": "止マレ！",
             "level": {
                 "easy": 3,
-                "normal": 3,
+                "normal": 4,
                 "hard": 5,
-                "oni": 9
+                "oni": 8
             },
-            "name_cn": "凉宫春日的忧郁"
+            "name_cn": "凉宫春日的忧郁(PSPDX)"
         },
         {
             "category": "动画歌曲",
@@ -1494,7 +1494,7 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "凉宫春日的忧郁"
+            "name_cn": "凉宫春日的忧郁(PS4 1)"
         },
         {
             "category": "动画歌曲",
@@ -1503,9 +1503,9 @@
                 "easy": 3,
                 "normal": 6,
                 "hard": 7,
-                "oni": 9
+                "oni": 8
             },
-            "name_cn": "幸运星"
+            "name_cn": "幸运星(AC15.3.7)"
         },
         {
             "category": "动画歌曲",
@@ -1516,18 +1516,18 @@
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": "恋爱班长"
+            "name_cn": "恋爱班长(AC14/Wii3)"
         },
         {
             "category": "动画歌曲",
             "name": "My Soul, Your Beats!",
             "level": {
-                "easy": 4,
+                "easy": 3,
                 "normal": 4,
-                "hard": 6,
+                "hard": 7,
                 "oni": 8
             },
-            "name_cn": "立华奏天下第一"
+            "name_cn": "立华奏天下第一(PSV1)"
         },
         {
             "category": "J-POP",
@@ -1535,10 +1535,10 @@
             "level": {
                 "easy": 3,
                 "normal": 4,
-                "hard": 5,
+                "hard": 4,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "(AC15.4.6)"
         },
         {
             "category": "J-POP",
@@ -1549,7 +1549,7 @@
                 "hard": 4,
                 "oni": 6
             },
-            "name_cn": ""
+            "name_cn": "(AC15.4.6/WiiU2)"
         },
         {
             "category": "J-POP",
@@ -1560,7 +1560,7 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "(AC14)"
         },
         {
             "category": "J-POP",
@@ -1590,10 +1590,10 @@
             "level": {
                 "easy": 3,
                 "normal": 4,
-                "hard": 4,
+                "hard": 3,
                 "oni": 6
             },
-            "name_cn": ""
+            "name_cn": "(AC15.2.0)"
         },
         {
             "category": "J-POP",
@@ -1604,27 +1604,27 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "(AC14/Wii3)"
         },
         {
             "category": "J-POP",
             "name": "銀河鉄道999",
             "level": {
-                "easy": 4,
+                "easy": 3,
                 "normal": 5,
-                "hard": 6,
+                "hard": 5,
                 "oni": 6
             },
-            "name_cn": ""
+            "name_cn": "(AC15.3.7)"
         },
         {
             "category": "J-POP",
             "name": "キセキ",
             "level": {
                 "easy": 3,
-                "normal": 3,
-                "hard": 4,
-                "oni": 3
+                "normal": 2,
+                "hard": 3,
+                "oni": 2
             },
             "name_cn": "牛也牛"
         },
@@ -1637,18 +1637,18 @@
                 "hard": 4,
                 "oni": 5
             },
-            "name_cn": ""
+            "name_cn": "(AC14)"
         },
         {
             "category": "J-POP",
             "name": "虹",
             "level": {
                 "easy": 3,
-                "normal": 3,
-                "hard": 3,
+                "normal": 1,
+                "hard": 2,
                 "oni": 6
             },
-            "name_cn": ""
+            "name_cn": "(AC15.5.4)"
         },
         {
             "category": "J-POP",
@@ -1659,7 +1659,7 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "(AC14)"
         },
         {
             "category": "J-POP",
@@ -1667,8 +1667,8 @@
             "level": {
                 "easy": 3,
                 "normal": 5,
-                "hard": 6,
-                "oni": 7
+                "hard": 5,
+                "oni": 6
             },
             "name_cn": ""
         },
@@ -1677,11 +1677,11 @@
             "name": "Love Forever",
             "level": {
                 "easy": 2,
-                "normal": 3,
-                "hard": 4,
+                "normal": 2,
+                "hard": 2,
                 "oni": 6
             },
-            "name_cn": ""
+            "name_cn": "(AC15.1.0)"
         },
         {
             "category": "J-POP",
@@ -1692,7 +1692,7 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "(AC14)"
         },
         {
             "category": "J-POP",
@@ -1703,7 +1703,7 @@
                 "hard": 4,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "(AC14)"
         },
         {
             "category": "J-POP",
@@ -1714,7 +1714,7 @@
                 "hard": 5,
                 "oni": 5
             },
-            "name_cn": ""
+            "name_cn": "(AC14)"
         },
         {
             "category": "J-POP",
@@ -1725,7 +1725,7 @@
                 "hard": 5,
                 "oni": 3
             },
-            "name_cn": ""
+            "name_cn": "(AC14)"
         },
         {
             "category": "J-POP",
@@ -1736,7 +1736,7 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "(AC14)"
         },
         {
             "category": "J-POP",
@@ -1745,7 +1745,7 @@
                 "easy": 4,
                 "normal": 4,
                 "hard": 5,
-                "oni": 8
+                "oni": 7
             },
             "name_cn": ""
         },
@@ -1758,7 +1758,7 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "(AC15.8.3/WiiU2)"
         },
         {
             "category": "J-POP",
@@ -1775,9 +1775,9 @@
             "category": "J-POP",
             "name": "天体観測",
             "level": {
-                "easy": 4,
+                "easy": 3,
                 "normal": 5,
-                "hard": 5,
+                "hard": 4,
                 "oni": 6
             },
             "name_cn": ""
@@ -1799,10 +1799,10 @@
             "level": {
                 "easy": 4,
                 "normal": 5,
-                "hard": 5,
-                "oni": 6
+                "hard": 4,
+                "oni": 5
             },
-            "name_cn": ""
+            "name_cn": "(NS1)"
         },
         {
             "category": "J-POP",
@@ -1813,7 +1813,7 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "(AC14)"
         },
         {
             "category": "J-POP",
@@ -1824,7 +1824,7 @@
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": ""
+            "name_cn": "(AC14)"
         },
         {
             "category": "J-POP",
@@ -1835,18 +1835,18 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "(AC14)"
         },
         {
             "category": "J-POP",
             "name": "そばかす",
             "level": {
                 "easy": 4,
-                "normal": 4,
-                "hard": 5,
-                "oni": 5
+                "normal": 3,
+                "hard": 4,
+                "oni": 6
             },
-            "name_cn": ""
+            "name_cn": "(AC15.5.4)"
         },
         {
             "category": "J-POP",
@@ -1857,18 +1857,18 @@
                 "hard": 5,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "(AC15.1.0/3DS1)"
         },
         {
             "category": "J-POP",
             "name": "Punishment",
             "level": {
-                "easy": 5,
-                "normal": 5,
+                "easy": 4,
+                "normal": 4,
                 "hard": 8,
-                "oni": 10
+                "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "(AC15.6.0)"
         },
         {
             "category": "J-POP",
@@ -1876,19 +1876,19 @@
             "level": {
                 "easy": 3,
                 "normal": 4,
-                "hard": 6,
+                "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "(AC15.5.4/WiiU2)"
         },
         {
             "category": "J-POP",
             "name": "紅",
             "level": {
-                "easy": 4,
-                "normal": 5,
+                "easy": 3,
+                "normal": 4,
                 "hard": 7,
-                "oni": 9
+                "oni": 8
             },
             "name_cn": ""
         },
@@ -1901,7 +1901,7 @@
                 "hard": 4,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "(AC14)"
         },
         {
             "category": "J-POP",
@@ -1912,7 +1912,7 @@
                 "hard": 4,
                 "oni": 6
             },
-            "name_cn": ""
+            "name_cn": "(AC14)"
         },
         {
             "category": "J-POP",
@@ -1923,7 +1923,7 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "(AC14/PSPDX)"
         },
         {
             "category": "游戏音乐",
@@ -1934,7 +1934,7 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": "怪物虐人组曲"
+            "name_cn": "怪物虐人组曲(AC14)"
         },
         {
             "category": "游戏音乐",
@@ -1945,7 +1945,7 @@
                 "hard": 4,
                 "oni": 3
             },
-            "name_cn": "勇者斗恶龙"
+            "name_cn": "勇者斗恶龙(AC14)"
         },
         {
             "category": "游戏音乐",
@@ -1962,42 +1962,42 @@
             "category": "游戏音乐",
             "name": "オーバーマスター",
             "level": {
-                "easy": 5,
-                "normal": 5,
+                "easy": 4,
+                "normal": 6,
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": "爱豆骂死他系列"
+            "name_cn": "爱豆骂死他系列(PSV MS)"
         },
         {
             "category": "游戏音乐",
             "name": "relations",
             "level": {
-                "easy": 4,
+                "easy": 3,
                 "normal": 5,
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "爱豆骂死他系列"
+            "name_cn": "爱豆骂死他系列(PSV MS)"
         },
         {
             "category": "游戏音乐",
             "name": "エージェント夜を往く",
             "level": {
                 "easy": 4,
-                "normal": 6,
-                "hard": 6,
-                "oni": 8
+                "normal": 4,
+                "hard": 5,
+                "oni": 7
             },
-            "name_cn": "爱豆骂死他系列"
+            "name_cn": "爱豆骂死他系列(PSV MS)"
         },
         {
             "category": "游戏音乐",
             "name": "キラメキラリ",
             "level": {
-                "easy": 4,
+                "easy": 3,
                 "normal": 6,
-                "hard": 8,
+                "hard": 7,
                 "oni": 9
             },
             "name_cn": "爱豆骂死他系列"
@@ -2011,7 +2011,7 @@
                 "hard": 3,
                 "oni": 7
             },
-            "name_cn": "文字拼图组曲"
+            "name_cn": "文字拼图组曲(PS4 1)"
         },
         {
             "category": "游戏音乐",
@@ -2031,7 +2031,7 @@
                 "easy": 4,
                 "normal": 5,
                 "hard": 7,
-                "oni": 9
+                "oni": 8
             },
             "name_cn": "源平"
         },
@@ -2062,9 +2062,9 @@
             "name": "Ridge Racer",
             "level": {
                 "easy": 4,
-                "normal": 6,
+                "normal": 7,
                 "hard": 8,
-                "oni": 10
+                "oni": 8
             },
             "name_cn": ""
         },
@@ -2075,7 +2075,7 @@
                 "easy": "",
                 "normal": "",
                 "hard": "",
-                "oni": 10
+                "oni": 9
             },
             "name_cn": ""
         },
@@ -2094,12 +2094,12 @@
             "category": "游戏音乐",
             "name": "DESERT STORM",
             "level": {
-                "easy": 5,
-                "normal": 6,
-                "hard": 7,
+                "easy": 4,
+                "normal": 5,
+                "hard": 6,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "(3DS2)"
         },
         {
             "category": "游戏音乐",
@@ -2110,22 +2110,44 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "(AC14)"
         },
         {
             "category": "游戏音乐",
             "name": "KARMA(Tatsujin Mix)",
             "level": {
-                "easy": 5,
-                "normal": 7,
-                "hard": 8,
-                "oni": 10
+                "easy": 4,
+                "normal": 6,
+                "hard": 7,
+                "oni": 9
             },
             "name_cn": ""
         },
         {
             "category": "游戏音乐",
             "name": "戦え！T3防衛隊 ～GDI mix～",
+            "level": {
+                "easy": 4,
+                "normal": 4,
+                "hard": 7,
+                "oni": 8
+            },
+            "name_cn": ""
+        },
+        {
+            "category": "游戏音乐",
+            "name": "IN THE ZONE",
+            "level": {
+                "easy": 4,
+                "normal": 6,
+                "hard": 8,
+                "oni": 9
+            },
+            "name_cn": ""
+        },
+        {
+            "category": "游戏音乐",
+            "name": "No Way Back",
             "level": {
                 "easy": 4,
                 "normal": 6,
@@ -2136,34 +2158,12 @@
         },
         {
             "category": "游戏音乐",
-            "name": "IN THE ZONE",
-            "level": {
-                "easy": 5,
-                "normal": 7,
-                "hard": 8,
-                "oni": 10
-            },
-            "name_cn": ""
-        },
-        {
-            "category": "游戏音乐",
-            "name": "No Way Back",
-            "level": {
-                "easy": 4,
-                "normal": 7,
-                "hard": 7,
-                "oni": 9
-            },
-            "name_cn": ""
-        },
-        {
-            "category": "游戏音乐",
             "name": "No Way Back（裏）",
             "level": {
                 "easy": "",
                 "normal": "",
                 "hard": "",
-                "oni": 10
+                "oni": 9
             },
             "name_cn": ""
         },
@@ -2172,7 +2172,7 @@
             "name": "Doom Noiz",
             "level": {
                 "easy": 5,
-                "normal": 7,
+                "normal": 6,
                 "hard": 8,
                 "oni": 10
             },
