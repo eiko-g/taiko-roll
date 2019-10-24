@@ -39,6 +39,7 @@ $(document).ready(function () {
     };
     loadSongList('lite');
     loadSongList('taiko14old');
+    loadSongList('taiko14new');
     // loadSongList('test');
 
     // 设置相关
