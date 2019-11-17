@@ -11,7 +11,8 @@ let
     },
     songListText = {
         'taiko14old': '旧框14旧基准',
-        'taiko14new': '旧框14【新】基准'
+        'taiko14new': '旧框14【新】基准',
+        'taikomomoiroSP': '摸摸衣裸SP'
     },
     temp;
 $(document).ready(function () {
@@ -43,6 +44,7 @@ $(document).ready(function () {
     };
     loadSongList('taiko14old');
     loadSongList('taiko14new');
+    loadSongList('taikomomoiroSP');
     // loadSongList('errortest');
 
     // 设置相关
