@@ -17,6 +17,9 @@
 - Anime 也一堆版本限定，丢
 - 顶不住了直接标版本号完事
 
+## 歌单文件
+**摸摸衣裸SP.xlsx**：[OneDrive](https://1drv.ms/x/s!ArePsgkuEqXhqAGZ6qnzPnVCpwsG?e=CLKfPt)
+
 ## 相关连接
 [WikiHouse](http://www.wikihouse.com/taiko/)
 
