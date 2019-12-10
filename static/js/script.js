@@ -12,16 +12,17 @@ let
     songListText = {
         'taiko14old': '旧框14旧基准',
         'taiko14new': '旧框14【新】基准',
-        'taikomomoiroSP': '摸摸衣裸SP'
+        'taikomomoiroSP': '摸摸衣裸SP',
+        'taikoRedSP': '红SP'
     },
     temp;
 $(document).ready(function () {
     // 载入歌单
     let loadFileCount = 0;
-    function loadSongList(fileName) {
+    function loadSongList(fileName, version = 1) {
         $.ajax({
             type: "GET",
-            url: "./data/" + fileName + ".json",
+            url: "./data/" + fileName + ".json?ver=" + version,
             dataType: "json",
         }).done(
             function (response) {
@@ -42,9 +43,10 @@ $(document).ready(function () {
             }
         )
     };
-    loadSongList('taiko14old');
-    loadSongList('taiko14new');
-    loadSongList('taikomomoiroSP');
+    loadSongList('taiko14old', 1);
+    loadSongList('taiko14new', 1);
+    loadSongList('taikomomoiroSP', 20191130);
+    loadSongList('taikoRedSP', 2019121001);
     // loadSongList('errortest');
 
     // 设置相关

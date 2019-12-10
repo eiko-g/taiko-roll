@@ -19,6 +19,7 @@
 
 ## 歌单文件
 **摸摸衣裸SP.xlsx**：[OneDrive](https://1drv.ms/x/s!ArePsgkuEqXhqAGZ6qnzPnVCpwsG?e=CLKfPt)
+**RedSP.xlsx**：[OneDirve](https://1drv.ms/x/s!ArePsgkuEqXhqQ8a1ZHCFnIMiLgt?e=lPxWJE)
 
 ## 相关连接
 [WikiHouse](http://www.wikihouse.com/taiko/)
