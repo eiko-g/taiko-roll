@@ -46,7 +46,7 @@ $(document).ready(function () {
     loadSongList('taiko14old', 1);
     loadSongList('taiko14new', 1);
     loadSongList('taikomomoiroSP', 20191130);
-    loadSongList('taikoRedSP', 2019121001);
+    loadSongList('taikoRedSP', 2019122301);
     // loadSongList('errortest');
 
     // 设置相关

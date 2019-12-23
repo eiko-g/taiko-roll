@@ -1,5 +1,5 @@
 {
-    "data": "2019121001",
+    "data": "2019122301",
     "songList": [{
             "category": "J-POP",
             "name": "恋音と雨空",
@@ -9,7 +9,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -20,7 +21,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -31,7 +33,8 @@
                 "hard": 4,
                 "oni": 6
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -42,7 +45,8 @@
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -53,7 +57,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": "彭薇薇 - Mottai-Nightland"
+            "name_cn": "彭薇薇 - Mottai-Nightland",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -64,7 +69,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "彭薇薇 - Family Party"
+            "name_cn": "彭薇薇 - Family Party",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -75,7 +81,8 @@
                 "hard": 6,
                 "oni": 6
             },
-            "name_cn": "彭薇薇 - Invader Invader"
+            "name_cn": "彭薇薇 - Invader Invader",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -86,7 +93,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "忍者棒棒"
+            "name_cn": "忍者棒棒",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -97,7 +105,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "彭薇薇 - Fashion Monster"
+            "name_cn": "彭薇薇 - Fashion Monster",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -108,7 +117,8 @@
                 "hard": 4,
                 "oni": 6
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -119,7 +129,8 @@
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": "摸摸衣裸太鼓咚咚节"
+            "name_cn": "摸摸衣裸太鼓咚咚节",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -130,7 +141,8 @@
                 "hard": 4,
                 "oni": 7
             },
-            "name_cn": "再会吧、那些爱怜的悲伤啊（翻译出自Wikipedia）"
+            "name_cn": "再会吧、那些爱怜的悲伤啊（翻译出自Wikipedia）",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -141,7 +153,8 @@
                 "hard": 3,
                 "oni": 6
             },
-            "name_cn": "行动吧！怪盗少女 -Z Ver.-"
+            "name_cn": "行动吧！怪盗少女 -Z Ver.-",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -152,7 +165,8 @@
                 "hard": 5,
                 "oni": 8
             },
-            "name_cn": "娘娘腔"
+            "name_cn": "娘娘腔",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -163,7 +177,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -174,7 +189,8 @@
                 "hard": "",
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -185,7 +201,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": "AKB48 - 恋爱幸运曲奇"
+            "name_cn": "AKB48 - 恋爱幸运曲奇",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -196,7 +213,8 @@
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": "AKB48 - 再见自由式"
+            "name_cn": "AKB48 - 再见自由式",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -207,7 +225,8 @@
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -218,7 +237,8 @@
                 "hard": 4,
                 "oni": 5
             },
-            "name_cn": "AKB48 - 想见你"
+            "name_cn": "AKB48 - 想见你",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -229,7 +249,8 @@
                 "hard": 3,
                 "oni": 5
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -240,7 +261,8 @@
                 "hard": 5,
                 "oni": 5
             },
-            "name_cn": "AKB48 - 飞翔入手"
+            "name_cn": "AKB48 - 飞翔入手",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -251,7 +273,8 @@
                 "hard": 4,
                 "oni": 6
             },
-            "name_cn": "AKB48 - Everyday、发箍"
+            "name_cn": "AKB48 - Everyday、发箍",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -262,7 +285,8 @@
                 "hard": 3,
                 "oni": 6
             },
-            "name_cn": "AKB48 - 无限重播"
+            "name_cn": "AKB48 - 无限重播",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -273,7 +297,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": "AKB48 - 马尾与发圈"
+            "name_cn": "AKB48 - 马尾与发圈",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -284,7 +309,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": "NHK - 海女 Opening Theme"
+            "name_cn": "NHK - 海女 Opening Theme",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -295,7 +321,8 @@
                 "hard": 5,
                 "oni": 5
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -306,7 +333,8 @@
                 "hard": 4,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -317,7 +345,8 @@
                 "hard": 3,
                 "oni": 5
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -328,7 +357,8 @@
                 "hard": 3,
                 "oni": 6
             },
-            "name_cn": "お願い!ランキング（拜托了 Ranking） Opening Theme"
+            "name_cn": "お願い!ランキング（拜托了 Ranking） Opening Theme",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -339,7 +369,8 @@
                 "hard": 1,
                 "oni": 3
             },
-            "name_cn": "NYC（日本乐队）"
+            "name_cn": "NYC（日本乐队）",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -350,7 +381,8 @@
                 "hard": 3,
                 "oni": 6
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -361,7 +393,8 @@
                 "hard": 4,
                 "oni": 6
             },
-            "name_cn": "生物股长 - 情歌不止"
+            "name_cn": "生物股长 - 情歌不止",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -372,7 +405,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": "生物股长 - 随着风吹"
+            "name_cn": "生物股长 - 随着风吹",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -383,7 +417,8 @@
                 "hard": 5,
                 "oni": 5
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -394,7 +429,8 @@
                 "hard": 2,
                 "oni": 4
             },
-            "name_cn": "生物股长 - 感谢"
+            "name_cn": "生物股长 - 感谢",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -405,7 +441,8 @@
                 "hard": 6,
                 "oni": 6
             },
-            "name_cn": "生物股长 - JOYFUL"
+            "name_cn": "生物股长 - JOYFUL",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -416,7 +453,8 @@
                 "hard": 6,
                 "oni": 6
             },
-            "name_cn": "生物股长 - 青鸟"
+            "name_cn": "生物股长 - 青鸟",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -427,7 +465,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "DOES - 勇往直前的舞者（银魂OP）"
+            "name_cn": "DOES - 勇往直前的舞者（银魂OP）",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -438,7 +477,8 @@
                 "hard": 2,
                 "oni": 6
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -449,7 +489,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -460,7 +501,8 @@
                 "hard": 4,
                 "oni": 6
             },
-            "name_cn": "GReeeeN - 强忍泪水，总有一天（电视剧《草莓之夜》OP）"
+            "name_cn": "GReeeeN - 强忍泪水，总有一天（电视剧《草莓之夜》OP）",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -471,7 +513,8 @@
                 "hard": 3,
                 "oni": 2
             },
-            "name_cn": "GReeeeN - 牛乜牛（奇迹）"
+            "name_cn": "GReeeeN - 牛乜牛（奇迹）",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -482,7 +525,8 @@
                 "hard": 5,
                 "oni": 8
             },
-            "name_cn": "Perfume - Polyrhythm"
+            "name_cn": "Perfume - Polyrhythm",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -493,7 +537,8 @@
                 "hard": 5,
                 "oni": 5
             },
-            "name_cn": "Perfume - 巧克力 Disco"
+            "name_cn": "Perfume - 巧克力 Disco",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -504,7 +549,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "Orange Range - 太阳无用"
+            "name_cn": "Orange Range - 太阳无用",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -515,7 +561,8 @@
                 "hard": 4,
                 "oni": 8
             },
-            "name_cn": "大塚爱 - 樱桃"
+            "name_cn": "大塚爱 - 樱桃",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -526,7 +573,8 @@
                 "hard": 4,
                 "oni": 6
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -537,7 +585,8 @@
                 "hard": 5,
                 "oni": 5
             },
-            "name_cn": "The Blue Hearts - Linda Linda"
+            "name_cn": "The Blue Hearts - Linda Linda",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -548,7 +597,8 @@
                 "hard": 4,
                 "oni": 5
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -559,7 +609,8 @@
                 "hard": 6,
                 "oni": 6
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -570,7 +621,8 @@
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -581,7 +633,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "SID - Rain（钢之炼金术师OP5）"
+            "name_cn": "SID - Rain（钢之炼金术师OP5）",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -592,7 +645,8 @@
                 "hard": 5,
                 "oni": 9
             },
-            "name_cn": "电影《贞子3D》主题曲"
+            "name_cn": "电影《贞子3D》主题曲",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -603,7 +657,8 @@
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": "Acid Black Cherry - Jesus"
+            "name_cn": "Acid Black Cherry - Jesus",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -614,7 +669,8 @@
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -625,7 +681,8 @@
                 "hard": 7,
                 "oni": 10
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -636,7 +693,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -647,7 +705,8 @@
                 "hard": 5,
                 "oni": 5
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -658,7 +717,8 @@
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": "ねごと（NEGOTO） - Charon"
+            "name_cn": "ねごと（NEGOTO） - Charon",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -669,7 +729,8 @@
                 "hard": 2,
                 "oni": 5
             },
-            "name_cn": "FUNKY MONKEY BABYS - 情书"
+            "name_cn": "FUNKY MONKEY BABYS - 情书",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -680,7 +741,8 @@
                 "hard": 3,
                 "oni": 6
             },
-            "name_cn": "生物股长 - 摇摆不定的罗曼蒂克"
+            "name_cn": "生物股长 - 摇摆不定的罗曼蒂克",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -691,7 +753,8 @@
                 "hard": 6,
                 "oni": 6
             },
-            "name_cn": "乡裕美 - A smile for a smile!"
+            "name_cn": "乡裕美 - A smile for a smile!",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -702,7 +765,8 @@
                 "hard": 4,
                 "oni": 6
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -713,7 +777,8 @@
                 "hard": 4,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -724,7 +789,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -735,7 +801,8 @@
                 "hard": "",
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -746,7 +813,8 @@
                 "hard": 2,
                 "oni": 6
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -757,7 +825,8 @@
                 "hard": 4,
                 "oni": 6
             },
-            "name_cn": "JUDY AND MARY - 雀斑"
+            "name_cn": "JUDY AND MARY - 雀斑",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -768,7 +837,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -779,7 +849,8 @@
                 "hard": 5,
                 "oni": 8
             },
-            "name_cn": "鱼韵 - 夜之舞者"
+            "name_cn": "鱼韵 - 夜之舞者",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -790,7 +861,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -801,7 +873,8 @@
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -812,7 +885,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "《哆啦A梦 Stand By Me》主题曲"
+            "name_cn": "《哆啦A梦 Stand By Me》主题曲",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -823,7 +897,8 @@
                 "hard": 7,
                 "oni": 7
             },
-            "name_cn": "小林幸子"
+            "name_cn": "小林幸子",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -834,7 +909,8 @@
                 "hard": "",
                 "oni": 10
             },
-            "name_cn": "小林幸子"
+            "name_cn": "小林幸子",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -845,7 +921,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -856,7 +933,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "SEKAI NO OWARI"
+            "name_cn": "SEKAI NO OWARI",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -867,7 +945,8 @@
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": "SEKAI NO OWARI"
+            "name_cn": "SEKAI NO OWARI",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -878,7 +957,8 @@
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -889,7 +969,8 @@
                 "hard": 5,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -900,7 +981,8 @@
                 "hard": 5,
                 "oni": 8
             },
-            "name_cn": "Sugar Song and Bitter Step"
+            "name_cn": "Sugar Song and Bitter Step",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -911,7 +993,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -922,7 +1005,8 @@
                 "hard": 5,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -933,7 +1017,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -944,7 +1029,8 @@
                 "hard": 4,
                 "oni": 6
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -955,7 +1041,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -966,7 +1053,8 @@
                 "hard": 2,
                 "oni": 3
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -977,7 +1065,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -988,7 +1077,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -999,7 +1089,8 @@
                 "hard": "",
                 "oni": 10
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -1010,7 +1101,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -1021,7 +1113,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -1032,7 +1125,8 @@
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -1043,7 +1137,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": "Gimme Choco"
+            "name_cn": "Gimme Choco",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -1054,7 +1149,8 @@
                 "hard": "",
                 "oni": 10
             },
-            "name_cn": "Gimme Choco"
+            "name_cn": "Gimme Choco",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -1065,7 +1161,8 @@
                 "hard": 4,
                 "oni": 6
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -1076,7 +1173,8 @@
                 "hard": 4,
                 "oni": 5
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -1087,7 +1185,8 @@
                 "hard": 4,
                 "oni": 5
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -1098,7 +1197,8 @@
                 "hard": 4,
                 "oni": 6
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -1109,7 +1209,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -1120,7 +1221,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "J-POP",
@@ -1131,7 +1233,8 @@
                 "hard": 6,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1142,7 +1245,8 @@
                 "hard": 2,
                 "oni": 4
             },
-            "name_cn": "《冰雪奇缘》"
+            "name_cn": "《冰雪奇缘》",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1153,7 +1257,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "《妖怪手表》OP"
+            "name_cn": "《妖怪手表》OP",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1164,7 +1269,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "《精灵宝可梦XY》OP1"
+            "name_cn": "《精灵宝可梦XY》OP1",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1175,7 +1281,8 @@
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": "《海贼王》OP17"
+            "name_cn": "《海贼王》OP17",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1186,7 +1293,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "《进击的巨人》OP"
+            "name_cn": "《进击的巨人》OP",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1197,7 +1305,8 @@
                 "hard": 7,
                 "oni": 7
             },
-            "name_cn": "《偶像活动》OP5"
+            "name_cn": "《偶像活动》OP5",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1208,7 +1317,8 @@
                 "hard": 4,
                 "oni": 6
             },
-            "name_cn": "《偶像活动》OP4"
+            "name_cn": "《偶像活动》OP4",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1219,7 +1329,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "《排球少年》OP1"
+            "name_cn": "《排球少年》OP1",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1230,7 +1341,8 @@
                 "hard": 3,
                 "oni": 7
             },
-            "name_cn": "《化物语》ED"
+            "name_cn": "《化物语》ED",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1241,7 +1353,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "《Love Live》OP1"
+            "name_cn": "《Love Live》OP1",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1252,7 +1365,8 @@
                 "hard": 5,
                 "oni": 8
             },
-            "name_cn": "《歌之王子殿下 真爱2000%》ED"
+            "name_cn": "《歌之王子殿下 真爱2000%》ED",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1263,7 +1377,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": "《革命机Valvrave》OP1"
+            "name_cn": "《革命机Valvrave》OP1",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1274,7 +1389,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "《魔法少女奈叶A's》OP"
+            "name_cn": "《魔法少女奈叶A's》OP",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1285,7 +1401,8 @@
                 "hard": 2,
                 "oni": 3
             },
-            "name_cn": "《精灵宝可梦 超级愿望》OP2"
+            "name_cn": "《精灵宝可梦 超级愿望》OP2",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1296,7 +1413,8 @@
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": "《偶活学园》OP2"
+            "name_cn": "《偶活学园》OP2",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1307,7 +1425,8 @@
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": "《偶活学园》OP2"
+            "name_cn": "《偶活学园》OP2",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1318,7 +1437,8 @@
                 "hard": 6,
                 "oni": 6
             },
-            "name_cn": "《偶活学园》OP3"
+            "name_cn": "《偶活学园》OP3",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1329,7 +1449,8 @@
                 "hard": 4,
                 "oni": 5
             },
-            "name_cn": "《烈车战队特急者》OP"
+            "name_cn": "《烈车战队特急者》OP",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1340,7 +1461,8 @@
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": "《兽电战队强龙者》OP"
+            "name_cn": "《兽电战队强龙者》OP",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1351,7 +1473,8 @@
                 "hard": 4,
                 "oni": 5
             },
-            "name_cn": "《Happiness Charge 光之美少女》OP"
+            "name_cn": "《Happiness Charge 光之美少女》OP",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1362,7 +1485,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "《假面骑士铠武》OP"
+            "name_cn": "《假面骑士铠武》OP",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1373,7 +1497,8 @@
                 "hard": 3,
                 "oni": 6
             },
-            "name_cn": "《假面骑士Wizard》OP"
+            "name_cn": "《假面骑士Wizard》OP",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1384,7 +1509,8 @@
                 "hard": 6,
                 "oni": 9
             },
-            "name_cn": "《银河奥特曼》插入曲"
+            "name_cn": "《银河奥特曼》插入曲",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1395,7 +1521,8 @@
                 "hard": 1,
                 "oni": 5
             },
-            "name_cn": "《龙猫》ED"
+            "name_cn": "《龙猫》ED",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1406,7 +1533,8 @@
                 "hard": 4,
                 "oni": 5
             },
-            "name_cn": "《龙猫》OP"
+            "name_cn": "《龙猫》OP",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1417,7 +1545,8 @@
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": "《龙猫》OP"
+            "name_cn": "《龙猫》OP",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1428,7 +1557,8 @@
                 "hard": 1,
                 "oni": 2
             },
-            "name_cn": "《悬崖上的金鱼姬》ED"
+            "name_cn": "《悬崖上的金鱼姬》ED",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1439,7 +1569,8 @@
                 "hard": 4,
                 "oni": 6
             },
-            "name_cn": "《天空之城》OP"
+            "name_cn": "《天空之城》OP",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1450,7 +1581,8 @@
                 "hard": 5,
                 "oni": 1
             },
-            "name_cn": "《面包超人》OP"
+            "name_cn": "《面包超人》OP",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1461,7 +1593,8 @@
                 "hard": 2,
                 "oni": 2
             },
-            "name_cn": "《面包超人》ED"
+            "name_cn": "《面包超人》ED",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1472,7 +1605,8 @@
                 "hard": 3,
                 "oni": 6
             },
-            "name_cn": "《忍者乱太郎》OP"
+            "name_cn": "《忍者乱太郎》OP",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1483,7 +1617,8 @@
                 "hard": 3,
                 "oni": 5
             },
-            "name_cn": "《拓麻歌子》第二季OP1"
+            "name_cn": "《拓麻歌子》第二季OP1",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1494,7 +1629,8 @@
                 "hard": 4,
                 "oni": 7
             },
-            "name_cn": "《拓麻歌子》第一季OP1"
+            "name_cn": "《拓麻歌子》第一季OP1",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1505,7 +1641,8 @@
                 "hard": 5,
                 "oni": 5
             },
-            "name_cn": "《拓麻歌子》第二季OP2"
+            "name_cn": "《拓麻歌子》第二季OP2",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1516,7 +1653,8 @@
                 "hard": 3,
                 "oni": 4
             },
-            "name_cn": "《拓麻歌子》第三季OP"
+            "name_cn": "《拓麻歌子》第三季OP",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1527,7 +1665,8 @@
                 "hard": 3,
                 "oni": 4
             },
-            "name_cn": "《宝石宠物 Kira☆Deco！》ED"
+            "name_cn": "《宝石宠物 Kira☆Deco！》ED",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1538,7 +1677,8 @@
                 "hard": 2,
                 "oni": 4
             },
-            "name_cn": "《哆啦A梦》OP"
+            "name_cn": "《哆啦A梦》OP",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1549,7 +1689,8 @@
                 "hard": 3,
                 "oni": 4
             },
-            "name_cn": "《樱桃小丸子》OP7"
+            "name_cn": "《樱桃小丸子》OP7",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1560,7 +1701,8 @@
                 "hard": 3,
                 "oni": 5
             },
-            "name_cn": "《纸箱战机》OP1"
+            "name_cn": "《纸箱战机》OP1",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1571,7 +1713,8 @@
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": "《闪电十一人GO 银河》OP2"
+            "name_cn": "《闪电十一人GO 银河》OP2",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1582,7 +1725,8 @@
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": "《名侦探柯南：第 11 名前锋》主题曲"
+            "name_cn": "《名侦探柯南：第 11 名前锋》主题曲",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1593,7 +1737,8 @@
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": "《名侦探柯南》Main Theme"
+            "name_cn": "《名侦探柯南》Main Theme",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1604,7 +1749,8 @@
                 "hard": 4,
                 "oni": 6
             },
-            "name_cn": "《圣斗士星矢》OP1"
+            "name_cn": "《圣斗士星矢》OP1",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1615,7 +1761,8 @@
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": "《火影忍者 疾风传》OP9"
+            "name_cn": "《火影忍者 疾风传》OP9",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1626,7 +1773,8 @@
                 "hard": 4,
                 "oni": 6
             },
-            "name_cn": "《银魂》OP4"
+            "name_cn": "《银魂》OP4",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1637,7 +1785,8 @@
                 "hard": 4,
                 "oni": 6
             },
-            "name_cn": "《银魂》OP3"
+            "name_cn": "《银魂》OP3",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1648,7 +1797,8 @@
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": "《银魂》OP1"
+            "name_cn": "《银魂》OP1",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1659,7 +1809,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "《TIGER & BUNNY》OP1"
+            "name_cn": "《TIGER & BUNNY》OP1",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1670,7 +1821,8 @@
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": "《爱杀宝贝》OP"
+            "name_cn": "《爱杀宝贝》OP",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1681,7 +1833,8 @@
                 "hard": 4,
                 "oni": 6
             },
-            "name_cn": "《魔笛》OP"
+            "name_cn": "《魔笛》OP",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1692,7 +1845,8 @@
                 "hard": 3,
                 "oni": 5
             },
-            "name_cn": "《魔法少女小圆》OP"
+            "name_cn": "《魔法少女小圆》OP",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1703,7 +1857,8 @@
                 "hard": 6,
                 "oni": 6
             },
-            "name_cn": "《超时空要塞Frontier》OP3"
+            "name_cn": "《超时空要塞Frontier》OP3",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1714,7 +1869,8 @@
                 "hard": "",
                 "oni": 7
             },
-            "name_cn": "《超时空要塞Frontier》OP3"
+            "name_cn": "《超时空要塞Frontier》OP3",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1725,7 +1881,8 @@
                 "hard": 5,
                 "oni": 8
             },
-            "name_cn": "《中二病也要谈恋爱》ED"
+            "name_cn": "《中二病也要谈恋爱》ED",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1736,7 +1893,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "《JOJO的奇妙冒险》OP1"
+            "name_cn": "《JOJO的奇妙冒险》OP1",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1747,7 +1905,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": "《Angel Beat》OP"
+            "name_cn": "《Angel Beat》OP",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1758,7 +1917,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "《创圣的大天使》OP1"
+            "name_cn": "《创圣的大天使》OP1",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1769,7 +1929,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": "《新世纪福音战士》OP"
+            "name_cn": "《新世纪福音战士》OP",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1780,7 +1941,8 @@
                 "hard": "",
                 "oni": 8
             },
-            "name_cn": "《新世纪福音战士》OP"
+            "name_cn": "《新世纪福音战士》OP",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1791,7 +1953,8 @@
                 "hard": 4,
                 "oni": 5
             },
-            "name_cn": "《心跳！光之美少女》OP"
+            "name_cn": "《心跳！光之美少女》OP",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1802,7 +1965,8 @@
                 "hard": 3,
                 "oni": 3
             },
-            "name_cn": "《特命战队Go Busters》OP1"
+            "name_cn": "《特命战队Go Busters》OP1",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1813,7 +1977,8 @@
                 "hard": 3,
                 "oni": 4
             },
-            "name_cn": "《Smile 光之美少女》OP"
+            "name_cn": "《Smile 光之美少女》OP",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1824,7 +1989,8 @@
                 "hard": 1,
                 "oni": 6
             },
-            "name_cn": "《面包超人》ED"
+            "name_cn": "《面包超人》ED",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1835,7 +2001,8 @@
                 "hard": 6,
                 "oni": 6
             },
-            "name_cn": "《哈姆太郎》OP6"
+            "name_cn": "《哈姆太郎》OP6",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1846,7 +2013,8 @@
                 "hard": 2,
                 "oni": 2
             },
-            "name_cn": "《拓麻歌子》OP3"
+            "name_cn": "《拓麻歌子》OP3",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1857,7 +2025,8 @@
                 "hard": 4,
                 "oni": 5
             },
-            "name_cn": "《NHK Minna no Uta》"
+            "name_cn": "《NHK Minna no Uta》",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1868,7 +2037,8 @@
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": "《NHK Minna no Uta》"
+            "name_cn": "《NHK Minna no Uta》",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1879,7 +2049,8 @@
                 "hard": 4,
                 "oni": 6
             },
-            "name_cn": "《蜡笔小新》OP11"
+            "name_cn": "《蜡笔小新》OP11",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1890,7 +2061,8 @@
                 "hard": 3,
                 "oni": 4
             },
-            "name_cn": "《哆啦A梦》夏季限定ED"
+            "name_cn": "《哆啦A梦》夏季限定ED",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1901,7 +2073,8 @@
                 "hard": 3,
                 "oni": 3
             },
-            "name_cn": "《假面骑士Fourze》OP"
+            "name_cn": "《假面骑士Fourze》OP",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1912,7 +2085,8 @@
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": "《假面骑士Fourze》OP"
+            "name_cn": "《假面骑士Fourze》OP",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1923,7 +2097,8 @@
                 "hard": 3,
                 "oni": 4
             },
-            "name_cn": "《海贼战队豪快者》OP"
+            "name_cn": "《海贼战队豪快者》OP",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1934,7 +2109,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": "《元气妈妈》OP1"
+            "name_cn": "《元气妈妈》OP1",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1945,7 +2121,8 @@
                 "hard": 2,
                 "oni": 4
             },
-            "name_cn": "《精灵宝可梦 超级愿望》OP1"
+            "name_cn": "《精灵宝可梦 超级愿望》OP1",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1956,7 +2133,8 @@
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": "《海贼王》OP15"
+            "name_cn": "《海贼王》OP15",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1967,7 +2145,8 @@
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": "《海贼王》OP13"
+            "name_cn": "《海贼王》OP13",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1978,7 +2157,8 @@
                 "hard": 4,
                 "oni": 5
             },
-            "name_cn": "《美食的俘虏》OP1"
+            "name_cn": "《美食的俘虏》OP1",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -1989,7 +2169,8 @@
                 "hard": 4,
                 "oni": 6
             },
-            "name_cn": "《龙珠改》OP1"
+            "name_cn": "《龙珠改》OP1",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2000,7 +2181,8 @@
                 "hard": 5,
                 "oni": 5
             },
-            "name_cn": "《火影忍者疾风传》OP11"
+            "name_cn": "《火影忍者疾风传》OP11",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2011,7 +2193,8 @@
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": "《火影忍者疾风传》ED20"
+            "name_cn": "《火影忍者疾风传》ED20",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2022,7 +2205,8 @@
                 "hard": 4,
                 "oni": 6
             },
-            "name_cn": "《黑子的篮球》OP1"
+            "name_cn": "《黑子的篮球》OP1",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2033,7 +2217,8 @@
                 "hard": 3,
                 "oni": 6
             },
-            "name_cn": "《Steins;Gate》OP"
+            "name_cn": "《Steins;Gate》OP",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2044,7 +2229,8 @@
                 "hard": 6,
                 "oni": 5
             },
-            "name_cn": "《棒球英豪》OP1"
+            "name_cn": "《棒球英豪》OP1",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2055,7 +2241,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "《黑子的篮球》第二季OP"
+            "name_cn": "《黑子的篮球》第二季OP",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2066,7 +2253,8 @@
                 "hard": 3,
                 "oni": 7
             },
-            "name_cn": "《冰雪奇缘》插曲"
+            "name_cn": "《冰雪奇缘》插曲",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2077,7 +2265,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": "《暗杀教室》OP1"
+            "name_cn": "《暗杀教室》OP1",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2088,7 +2277,8 @@
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": "《Free! -Eternal Summer-》ED"
+            "name_cn": "《Free! -Eternal Summer-》ED",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2099,7 +2289,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": "《假面骑士Drive》OP"
+            "name_cn": "《假面骑士Drive》OP",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2110,7 +2301,8 @@
                 "hard": 3,
                 "oni": 8
             },
-            "name_cn": "《Go! Princess 光之美少女》OP"
+            "name_cn": "《Go! Princess 光之美少女》OP",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2121,7 +2313,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "《妖怪手表》ED1"
+            "name_cn": "《妖怪手表》ED1",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2132,7 +2325,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "《妖怪手表》ED2"
+            "name_cn": "《妖怪手表》ED2",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2143,7 +2337,8 @@
                 "hard": 4,
                 "oni": 7
             },
-            "name_cn": "《妖怪手表》OP2"
+            "name_cn": "《妖怪手表》OP2",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2154,7 +2349,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "《妖怪手表》OP2"
+            "name_cn": "《妖怪手表》OP2",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2165,7 +2361,8 @@
                 "hard": 5,
                 "oni": 5
             },
-            "name_cn": "《手里剑战队忍忍者》OP"
+            "name_cn": "《手里剑战队忍忍者》OP",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2176,7 +2373,8 @@
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": "《精灵宝可梦XY》OP3"
+            "name_cn": "《精灵宝可梦XY》OP3",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2187,7 +2385,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": "《请问您今天要来点兔子吗？》OP"
+            "name_cn": "《请问您今天要来点兔子吗？》OP",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2198,7 +2397,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "《奥特曼X》OP"
+            "name_cn": "《奥特曼X》OP",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2209,7 +2409,8 @@
                 "hard": "",
                 "oni": 10
             },
-            "name_cn": "《奥特曼X》OP"
+            "name_cn": "《奥特曼X》OP",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2220,7 +2421,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": "《噬神者》OP"
+            "name_cn": "《噬神者》OP",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2231,7 +2433,8 @@
                 "hard": 4,
                 "oni": 5
             },
-            "name_cn": "《美妙天堂》OP"
+            "name_cn": "《美妙天堂》OP",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2242,7 +2445,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": "《Love Live》第二季OP"
+            "name_cn": "《Love Live》第二季OP",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2253,7 +2457,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "《假面骑士Ghost》OP"
+            "name_cn": "《假面骑士Ghost》OP",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2264,7 +2469,8 @@
                 "hard": 3,
                 "oni": 3
             },
-            "name_cn": "《哆啦A梦》OP"
+            "name_cn": "《哆啦A梦》OP",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2275,7 +2481,8 @@
                 "hard": 4,
                 "oni": 7
             },
-            "name_cn": "《妖怪手表》OP5"
+            "name_cn": "《妖怪手表》OP5",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2286,7 +2493,8 @@
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": "《海贼王》OP18"
+            "name_cn": "《海贼王》OP18",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2297,7 +2505,8 @@
                 "hard": 4,
                 "oni": 6
             },
-            "name_cn": "《刀剑神域》OP1"
+            "name_cn": "《刀剑神域》OP1",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2308,7 +2517,8 @@
                 "hard": 4,
                 "oni": 7
             },
-            "name_cn": "《Love Live》剧场版曲目"
+            "name_cn": "《Love Live》剧场版曲目",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2319,7 +2529,8 @@
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": "《Love Live》第二季曲目"
+            "name_cn": "《Love Live》第二季曲目",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2330,7 +2541,8 @@
                 "hard": 5,
                 "oni": 9
             },
-            "name_cn": "《精灵宝可梦XY&Z》OP"
+            "name_cn": "《精灵宝可梦XY&Z》OP",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2341,7 +2553,8 @@
                 "hard": 5,
                 "oni": 8
             },
-            "name_cn": "《全部成为F》OP"
+            "name_cn": "《全部成为F》OP",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2352,7 +2565,8 @@
                 "hard": 4,
                 "oni": 5
             },
-            "name_cn": "《魔法使 光之美少女！》OP1"
+            "name_cn": "《魔法使 光之美少女！》OP1",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2363,7 +2577,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": "《暗杀教室》OP3"
+            "name_cn": "《暗杀教室》OP3",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2374,7 +2589,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "《干物妹小埋》OP"
+            "name_cn": "《干物妹小埋》OP",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2385,7 +2601,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "《超时空要塞Delta》OP1"
+            "name_cn": "《超时空要塞Delta》OP1",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2396,7 +2613,8 @@
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": "《超时空要塞Delta》OP1"
+            "name_cn": "《超时空要塞Delta》OP1",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2407,7 +2625,8 @@
                 "hard": 3,
                 "oni": 5
             },
-            "name_cn": "《动物战队兽王者》OP"
+            "name_cn": "《动物战队兽王者》OP",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2418,7 +2637,8 @@
                 "hard": 5,
                 "oni": 5
             },
-            "name_cn": "《蜡笔小新》OP15"
+            "name_cn": "《蜡笔小新》OP15",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2429,7 +2649,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "《超时空要塞Delta》插曲"
+            "name_cn": "《超时空要塞Delta》插曲",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2440,7 +2661,8 @@
                 "hard": "",
                 "oni": 8
             },
-            "name_cn": "《超时空要塞Delta》插曲"
+            "name_cn": "《超时空要塞Delta》插曲",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2451,7 +2673,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "《数码暴龙》OP"
+            "name_cn": "《数码暴龙》OP",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2462,7 +2685,8 @@
                 "hard": 3,
                 "oni": 6
             },
-            "name_cn": "《偶活学园Stars！》OP1"
+            "name_cn": "《偶活学园Stars！》OP1",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2473,7 +2697,8 @@
                 "hard": 2,
                 "oni": 1
             },
-            "name_cn": "《千与千寻》主题曲"
+            "name_cn": "《千与千寻》主题曲",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2484,7 +2709,8 @@
                 "hard": 4,
                 "oni": 3
             },
-            "name_cn": "《疯狂动物城》主题曲"
+            "name_cn": "《疯狂动物城》主题曲",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2495,7 +2721,8 @@
                 "hard": 4,
                 "oni": 6
             },
-            "name_cn": "《龙珠超》OP1"
+            "name_cn": "《龙珠超》OP1",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2506,7 +2733,8 @@
                 "hard": 6,
                 "oni": 10
             },
-            "name_cn": "《欧布奥特曼》OP"
+            "name_cn": "《欧布奥特曼》OP",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2517,7 +2745,8 @@
                 "hard": 6,
                 "oni": 6
             },
-            "name_cn": "《海贼王电影：Gold》主题曲"
+            "name_cn": "《海贼王电影：Gold》主题曲",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2528,7 +2757,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": "《とんかつDJアゲ太郎》太鼓达人Mix版"
+            "name_cn": "《とんかつDJアゲ太郎》太鼓达人Mix版",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2539,7 +2769,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "《火影忍者疾风传》OP19"
+            "name_cn": "《火影忍者疾风传》OP19",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2550,7 +2781,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "《Re：从零开始的异世界生活》OP2"
+            "name_cn": "《Re：从零开始的异世界生活》OP2",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2561,7 +2793,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": "《海贼王》OP19"
+            "name_cn": "《海贼王》OP19",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2572,7 +2805,8 @@
                 "hard": 5,
                 "oni": 5
             },
-            "name_cn": "《はなかっぱ》OP7"
+            "name_cn": "《はなかっぱ》OP7",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2583,7 +2817,8 @@
                 "hard": 5,
                 "oni": 8
             },
-            "name_cn": "《妖怪手表》OP7"
+            "name_cn": "《妖怪手表》OP7",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2594,7 +2829,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "《假面骑士EX-AID》OP"
+            "name_cn": "《假面骑士EX-AID》OP",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2605,7 +2841,8 @@
                 "hard": 6,
                 "oni": 9
             },
-            "name_cn": "《排球少年》OP"
+            "name_cn": "《排球少年》OP",
+            "已核对": 1
         },
         {
             "category": "动画歌曲",
@@ -2616,7 +2853,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": "《刀剑乱舞 花丸》OP"
+            "name_cn": "《刀剑乱舞 花丸》OP",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -2627,7 +2865,8 @@
                 "hard": 5,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -2638,7 +2877,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -2649,7 +2889,8 @@
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -2660,7 +2901,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -2671,7 +2913,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "阳炎炫乱"
+            "name_cn": "阳炎炫乱",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -2682,7 +2925,8 @@
                 "hard": "",
                 "oni": 8
             },
-            "name_cn": "阳炎炫乱（里）"
+            "name_cn": "阳炎炫乱（里）",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -2693,7 +2937,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "Eccentric"
+            "name_cn": "Eccentric",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -2704,7 +2949,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "1 2 Fan Club"
+            "name_cn": "1 2 Fan Club",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -2715,7 +2961,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "脑浆炸裂 Girl"
+            "name_cn": "脑浆炸裂 Girl",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -2726,7 +2973,8 @@
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": "脑浆炸裂 Girl（里）"
+            "name_cn": "脑浆炸裂 Girl（里）",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -2737,7 +2985,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -2748,7 +2997,8 @@
                 "hard": "",
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -2759,7 +3009,8 @@
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": "把你给 Miku Miku 掉"
+            "name_cn": "把你给 Miku Miku 掉",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -2770,7 +3021,8 @@
                 "hard": 6,
                 "oni": 9
             },
-            "name_cn": "石風呂 feat.IA"
+            "name_cn": "石風呂 feat.IA",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -2781,7 +3033,8 @@
                 "hard": 6,
                 "oni": 9
             },
-            "name_cn": "夜谈欺骗"
+            "name_cn": "夜谈欺骗",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -2792,7 +3045,8 @@
                 "hard": 6,
                 "oni": 9
             },
-            "name_cn": "孩童记录"
+            "name_cn": "孩童记录",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -2803,7 +3057,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -2814,7 +3069,8 @@
                 "hard": 6,
                 "oni": 9
             },
-            "name_cn": "人生Reset Button"
+            "name_cn": "人生Reset Button",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -2825,7 +3081,8 @@
                 "hard": 6,
                 "oni": 5
             },
-            "name_cn": "放学后Stride"
+            "name_cn": "放学后Stride",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -2836,7 +3093,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "俄罗斯套娃"
+            "name_cn": "俄罗斯套娃",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -2847,7 +3105,8 @@
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": "俄罗斯套娃（里）"
+            "name_cn": "俄罗斯套娃（里）",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -2858,7 +3117,8 @@
                 "hard": 3,
                 "oni": 6
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -2869,7 +3129,8 @@
                 "hard": "",
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -2880,7 +3141,8 @@
                 "hard": 5,
                 "oni": 8
             },
-            "name_cn": "Mosaic Roll"
+            "name_cn": "Mosaic Roll",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -2891,7 +3153,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -2902,7 +3165,8 @@
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -2913,7 +3177,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "卑怯战队UROTANDA"
+            "name_cn": "卑怯战队UROTANDA",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -2924,7 +3189,8 @@
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -2935,7 +3201,8 @@
                 "hard": 5,
                 "oni": 8
             },
-            "name_cn": "Melt"
+            "name_cn": "Melt",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -2946,7 +3213,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "世界属于我（世界第一公主殿下）"
+            "name_cn": "世界属于我（世界第一公主殿下）",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -2957,7 +3225,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "Black★RockShooter"
+            "name_cn": "Black★RockShooter",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -2968,7 +3237,8 @@
                 "hard": 6,
                 "oni": 9
             },
-            "name_cn": "はるなば feat.GUMI"
+            "name_cn": "はるなば feat.GUMI",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -2979,7 +3249,8 @@
                 "hard": 7,
                 "oni": 10
             },
-            "name_cn": "リューイッティ feat.GUMI"
+            "name_cn": "リューイッティ feat.GUMI",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -2990,7 +3261,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "Noriyuki feat.GUMI"
+            "name_cn": "Noriyuki feat.GUMI",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -3001,7 +3273,8 @@
                 "hard": 5,
                 "oni": 8
             },
-            "name_cn": "豊永ごんたP feat.GUMI"
+            "name_cn": "豊永ごんたP feat.GUMI",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -3012,7 +3285,8 @@
                 "hard": 8,
                 "oni": 8
             },
-            "name_cn": "リューイッティ feat.GUMI"
+            "name_cn": "リューイッティ feat.GUMI",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -3023,7 +3297,8 @@
                 "hard": 7,
                 "oni": 10
             },
-            "name_cn": "はるなば feat.結月ゆかり"
+            "name_cn": "はるなば feat.結月ゆかり",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -3034,7 +3309,8 @@
                 "hard": 6,
                 "oni": 9
             },
-            "name_cn": "はるなば feat.初音ミク"
+            "name_cn": "はるなば feat.初音ミク",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -3045,7 +3321,8 @@
                 "hard": 6,
                 "oni": 9
             },
-            "name_cn": "feat.鏡音リン・鏡音レン starring下田麻美"
+            "name_cn": "feat.鏡音リン・鏡音レン starring下田麻美",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -3056,7 +3333,8 @@
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -3067,7 +3345,8 @@
                 "hard": "",
                 "oni": 10
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -3078,7 +3357,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "サカモト教授 feat.GUMI "
+            "name_cn": "サカモト教授 feat.GUMI ",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -3089,7 +3369,8 @@
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": "PolyphonicBranch feat.初音ミク・鏡音リン"
+            "name_cn": "PolyphonicBranch feat.初音ミク・鏡音リン",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -3100,7 +3381,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": "LukaLuka★NightFever"
+            "name_cn": "LukaLuka★NightFever",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -3111,7 +3393,8 @@
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": "LukaLuka★NightFever"
+            "name_cn": "LukaLuka★NightFever",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -3122,7 +3405,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": "M.S.S Project feat.初音ミク・GUMI"
+            "name_cn": "M.S.S Project feat.初音ミク・GUMI",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -3133,7 +3417,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": "feat.鏡音リン･鏡音レン"
+            "name_cn": "feat.鏡音リン･鏡音レン",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -3144,7 +3429,8 @@
                 "hard": 6,
                 "oni": 9
             },
-            "name_cn": "World's End Dancehall"
+            "name_cn": "World's End Dancehall",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -3155,7 +3441,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": "Lost One的号哭"
+            "name_cn": "Lost One的号哭",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -3166,7 +3453,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": "Gigantic O.T.N"
+            "name_cn": "Gigantic O.T.N",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -3177,7 +3465,8 @@
                 "hard": "",
                 "oni": 10
             },
-            "name_cn": "Gigantic O.T.N"
+            "name_cn": "Gigantic O.T.N",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -3188,7 +3477,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "テヅカ feat.鏡音リン・鏡音レン"
+            "name_cn": "テヅカ feat.鏡音リン・鏡音レン",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -3199,7 +3489,8 @@
                 "hard": 7,
                 "oni": 10
             },
-            "name_cn": "はるなば feat.結月ゆかり＆石黒千尋"
+            "name_cn": "はるなば feat.結月ゆかり＆石黒千尋",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -3210,7 +3501,8 @@
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": "M-O-T-U feat.初音ミク"
+            "name_cn": "M-O-T-U feat.初音ミク",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -3221,7 +3513,8 @@
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": "饭团哪儿去了"
+            "name_cn": "饭团哪儿去了",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -3232,7 +3525,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "东京泰迪熊"
+            "name_cn": "东京泰迪熊",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -3243,7 +3537,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": "Ghost Rule"
+            "name_cn": "Ghost Rule",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -3254,7 +3549,8 @@
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": "Ghost Rule"
+            "name_cn": "Ghost Rule",
+            "已核对": 1
         },
         {
             "category": "VOCALOID",
@@ -3265,7 +3561,8 @@
                 "hard": 6,
                 "oni": 9
             },
-            "name_cn": "Alien Alien"
+            "name_cn": "Alien Alien",
+            "已核对": 1
         },
         {
             "category": "儿歌",
@@ -3276,7 +3573,8 @@
                 "hard": 4,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "儿歌",
@@ -3287,7 +3585,8 @@
                 "hard": 1,
                 "oni": 1
             },
-            "name_cn": "森林里的熊先生"
+            "name_cn": "森林里的熊先生",
+            "已核对": 1
         },
         {
             "category": "儿歌",
@@ -3298,7 +3597,8 @@
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": "里小熊"
+            "name_cn": "里小熊",
+            "已核对": 1
         },
         {
             "category": "儿歌",
@@ -3309,7 +3609,8 @@
                 "hard": 4,
                 "oni": 6
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "儿歌",
@@ -3320,7 +3621,8 @@
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "儿歌",
@@ -3331,7 +3633,8 @@
                 "hard": 7,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "综艺曲目",
@@ -3342,7 +3645,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "综艺曲目",
@@ -3353,7 +3657,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "综艺曲目",
@@ -3364,7 +3669,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "明治グルト广告曲"
+            "name_cn": "明治グルト广告曲",
+            "已核对": 1
         },
         {
             "category": "综艺曲目",
@@ -3375,7 +3681,8 @@
                 "hard": 1,
                 "oni": 5
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "综艺曲目",
@@ -3386,7 +3693,8 @@
                 "hard": 4,
                 "oni": 5
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "综艺曲目",
@@ -3397,7 +3705,8 @@
                 "hard": 6,
                 "oni": 6
             },
-            "name_cn": "软软战车"
+            "name_cn": "软软战车",
+            "已核对": 1
         },
         {
             "category": "综艺曲目",
@@ -3408,7 +3717,8 @@
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": "软软战车"
+            "name_cn": "软软战车",
+            "已核对": 1
         },
         {
             "category": "综艺曲目",
@@ -3419,7 +3729,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "综艺曲目",
@@ -3430,7 +3741,8 @@
                 "hard": 6,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "综艺曲目",
@@ -3441,7 +3753,8 @@
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "综艺曲目",
@@ -3452,7 +3765,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": "琪露诺的数学教室"
+            "name_cn": "琪露诺的数学教室",
+            "已核对": 1
         },
         {
             "category": "综艺曲目",
@@ -3463,7 +3777,8 @@
                 "hard": "",
                 "oni": 10
             },
-            "name_cn": "琪露诺的数学教室"
+            "name_cn": "琪露诺的数学教室",
+            "已核对": 1
         },
         {
             "category": "综艺曲目",
@@ -3474,7 +3789,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "综艺曲目",
@@ -3485,7 +3801,8 @@
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "综艺曲目",
@@ -3496,7 +3813,8 @@
                 "hard": 6,
                 "oni": 6
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "综艺曲目",
@@ -3507,7 +3825,8 @@
                 "hard": "",
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "综艺曲目",
@@ -3518,7 +3837,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": "(K)Night of (K)Nights"
+            "name_cn": "(K)Night of (K)Nights",
+            "已核对": 1
         },
         {
             "category": "综艺曲目",
@@ -3529,7 +3849,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "综艺曲目",
@@ -3540,7 +3861,8 @@
                 "hard": 4,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "综艺曲目",
@@ -3551,7 +3873,8 @@
                 "hard": 3,
                 "oni": 4
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "综艺曲目",
@@ -3562,7 +3885,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "综艺曲目",
@@ -3573,7 +3897,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "综艺曲目",
@@ -3584,7 +3909,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "「caramelldansen」"
+            "name_cn": "「caramelldansen」",
+            "已核对": 1
         },
         {
             "category": "综艺曲目",
@@ -3595,7 +3921,8 @@
                 "hard": 5,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "综艺曲目",
@@ -3606,7 +3933,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "综艺曲目",
@@ -3617,7 +3945,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "综艺曲目",
@@ -3628,7 +3957,8 @@
                 "hard": 4,
                 "oni": 6
             },
-            "name_cn": "熊本熊的歌"
+            "name_cn": "熊本熊的歌",
+            "已核对": 1
         },
         {
             "category": "综艺曲目",
@@ -3639,7 +3969,8 @@
                 "hard": 5,
                 "oni": 8
             },
-            "name_cn": "新日本プロレス オカダ・カズチカ入場テーマ"
+            "name_cn": "新日本プロレス オカダ・カズチカ入場テーマ",
+            "已核对": 1
         },
         {
             "category": "综艺曲目",
@@ -3650,7 +3981,8 @@
                 "hard": 5,
                 "oni": 8
             },
-            "name_cn": "花开艳丽终散落"
+            "name_cn": "花开艳丽终散落",
+            "已核对": 1
         },
         {
             "category": "综艺曲目",
@@ -3661,7 +3993,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": "東方Projectアレンジ 豚乙女"
+            "name_cn": "東方Projectアレンジ 豚乙女",
+            "已核对": 1
         },
         {
             "category": "综艺曲目",
@@ -3672,7 +4005,8 @@
                 "hard": 4,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "综艺曲目",
@@ -3683,7 +4017,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "8.6秒バズーカー"
+            "name_cn": "8.6秒バズーカー",
+            "已核对": 1
         },
         {
             "category": "综艺曲目",
@@ -3694,7 +4029,8 @@
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": "8.6秒バズーカー"
+            "name_cn": "8.6秒バズーカー",
+            "已核对": 1
         },
         {
             "category": "综艺曲目",
@@ -3705,7 +4041,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "《侦探！Knight Scoop》主题曲"
+            "name_cn": "《侦探！Knight Scoop》主题曲",
+            "已核对": 1
         },
         {
             "category": "综艺曲目",
@@ -3716,7 +4053,8 @@
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": "東方Project×NAMCO SOUNDS LindaAI-CUE"
+            "name_cn": "東方Project×NAMCO SOUNDS LindaAI-CUE",
+            "已核对": 1
         },
         {
             "category": "综艺曲目",
@@ -3727,7 +4065,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "東方Project×NAMCO SOUNDS kyo feat.あさな(IOSYS)"
+            "name_cn": "東方Project×NAMCO SOUNDS kyo feat.あさな(IOSYS)",
+            "已核对": 1
         },
         {
             "category": "综艺曲目",
@@ -3738,7 +4077,8 @@
                 "hard": 5,
                 "oni": 8
             },
-            "name_cn": "東方Project×NAMCO SOUNDS 渡辺量"
+            "name_cn": "東方Project×NAMCO SOUNDS 渡辺量",
+            "已核对": 1
         },
         {
             "category": "综艺曲目",
@@ -3749,7 +4089,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": "東方Project×NAMCO SOUNDS 中鶴潤一"
+            "name_cn": "東方Project×NAMCO SOUNDS 中鶴潤一",
+            "已核对": 1
         },
         {
             "category": "综艺曲目",
@@ -3760,7 +4101,8 @@
                 "hard": 7,
                 "oni": 10
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "综艺曲目",
@@ -3771,7 +4113,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "東方Projectアレンジ A-One"
+            "name_cn": "東方Projectアレンジ A-One",
+            "已核对": 1
         },
         {
             "category": "综艺曲目",
@@ -3782,7 +4125,8 @@
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": "東方Projectアレンジ A-One"
+            "name_cn": "東方Projectアレンジ A-One",
+            "已核对": 1
         },
         {
             "category": "综艺曲目",
@@ -3793,7 +4137,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "東方Projectアレンジ 岸田教団 & THE明星ロケッツ"
+            "name_cn": "東方Projectアレンジ 岸田教団 & THE明星ロケッツ",
+            "已核对": 1
         },
         {
             "category": "综艺曲目",
@@ -3804,7 +4149,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "综艺曲目",
@@ -3815,7 +4161,8 @@
                 "hard": 4,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "综艺曲目",
@@ -3826,7 +4173,8 @@
                 "hard": 4,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "综艺曲目",
@@ -3837,7 +4185,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": "公交车2号"
+            "name_cn": "公交车2号",
+            "已核对": 1
         },
         {
             "category": "综艺曲目",
@@ -3848,7 +4197,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "Big Bang"
+            "name_cn": "Big Bang",
+            "已核对": 1
         },
         {
             "category": "综艺曲目",
@@ -3859,7 +4209,8 @@
                 "hard": 5,
                 "oni": 9
             },
-            "name_cn": "東方Projectアレンジ 博麗神社例大祭コラボユニット"
+            "name_cn": "東方Projectアレンジ 博麗神社例大祭コラボユニット",
+            "已核对": 1
         },
         {
             "category": "综艺曲目",
@@ -3870,7 +4221,8 @@
                 "hard": 4,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "古典音乐",
@@ -3881,7 +4233,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "古典音乐",
@@ -3892,7 +4245,8 @@
                 "hard": 8,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "古典音乐",
@@ -3903,7 +4257,8 @@
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "古典音乐",
@@ -3914,7 +4269,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": "Piano concerto in F (3rd movement)"
+            "name_cn": "Piano concerto in F (3rd movement)",
+            "已核对": 1
         },
         {
             "category": "古典音乐",
@@ -3925,7 +4281,8 @@
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "古典音乐",
@@ -3936,7 +4293,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "古典音乐",
@@ -3947,7 +4305,8 @@
                 "hard": 7,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "古典音乐",
@@ -3958,7 +4317,8 @@
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "古典音乐",
@@ -3969,7 +4329,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "古典音乐",
@@ -3980,7 +4341,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "古典音乐",
@@ -3991,7 +4353,8 @@
                 "hard": 3,
                 "oni": 6
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "古典音乐",
@@ -4002,7 +4365,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": "大黄蜂的飞行"
+            "name_cn": "大黄蜂的飞行",
+            "已核对": 1
         },
         {
             "category": "古典音乐",
@@ -4013,7 +4377,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "古典音乐",
@@ -4024,7 +4389,8 @@
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "古典音乐",
@@ -4035,7 +4401,8 @@
                 "hard": "",
                 "oni": 10
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "古典音乐",
@@ -4046,7 +4413,8 @@
                 "hard": 8,
                 "oni": 8
             },
-            "name_cn": "库兰普之墓"
+            "name_cn": "库兰普之墓",
+            "已核对": 1
         },
         {
             "category": "古典音乐",
@@ -4057,7 +4425,8 @@
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "古典音乐",
@@ -4068,7 +4437,8 @@
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "古典音乐",
@@ -4079,7 +4449,8 @@
                 "hard": "",
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "古典音乐",
@@ -4090,7 +4461,8 @@
                 "hard": 5,
                 "oni": 8
             },
-            "name_cn": "亲亲卡农"
+            "name_cn": "亲亲卡农",
+            "已核对": 1
         },
         {
             "category": "古典音乐",
@@ -4101,7 +4473,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "古典音乐",
@@ -4112,7 +4485,8 @@
                 "hard": "",
                 "oni": 10
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "古典音乐",
@@ -4123,7 +4497,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "古典音乐",
@@ -4134,7 +4509,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "古典音乐",
@@ -4145,7 +4521,8 @@
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "古典音乐",
@@ -4156,7 +4533,8 @@
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": "Charlie Dash"
+            "name_cn": "Charlie Dash",
+            "已核对": 1
         },
         {
             "category": "古典音乐",
@@ -4167,7 +4545,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "美丽又繁忙的多瑙河"
+            "name_cn": "美丽又繁忙的多瑙河",
+            "已核对": 1
         },
         {
             "category": "古典音乐",
@@ -4178,7 +4557,8 @@
                 "hard": "",
                 "oni": 10
             },
-            "name_cn": "美丽又繁忙的多瑙河"
+            "name_cn": "美丽又繁忙的多瑙河",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4189,7 +4569,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "Burning Force组曲"
+            "name_cn": "Burning Force组曲",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4200,7 +4581,8 @@
                 "hard": 8,
                 "oni": 7
             },
-            "name_cn": "Dragon Spirit组曲"
+            "name_cn": "Dragon Spirit组曲",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4211,7 +4593,8 @@
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": "钢鸟 BGM1"
+            "name_cn": "钢鸟 BGM1",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4222,7 +4605,8 @@
                 "hard": 5,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4233,7 +4617,8 @@
                 "hard": 3,
                 "oni": 6
             },
-            "name_cn": "《龙珠群雄》主题曲"
+            "name_cn": "《龙珠群雄》主题曲",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4244,7 +4629,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "出自《智龙迷城》"
+            "name_cn": "出自《智龙迷城》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4255,7 +4641,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": "《怪物猎人4》组曲"
+            "name_cn": "《怪物猎人4》组曲",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4266,7 +4653,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": "出自《精灵宝可梦XY》"
+            "name_cn": "出自《精灵宝可梦XY》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4277,7 +4665,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "出自《精灵宝可梦XY》"
+            "name_cn": "出自《精灵宝可梦XY》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4288,7 +4677,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "出自《精灵宝可梦 黑2·白2》"
+            "name_cn": "出自《精灵宝可梦 黑2·白2》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4299,7 +4689,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": "出自《超级马里奥兄弟》"
+            "name_cn": "出自《超级马里奥兄弟》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4310,7 +4701,8 @@
                 "hard": 3,
                 "oni": 5
             },
-            "name_cn": "出自《Music Gun Gun》"
+            "name_cn": "出自《Music Gun Gun》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4321,7 +4713,8 @@
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": "出自《Music Gun Gun》"
+            "name_cn": "出自《Music Gun Gun》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4332,7 +4725,8 @@
                 "hard": 3,
                 "oni": 4
             },
-            "name_cn": "出自《音乐枪枪》"
+            "name_cn": "出自《音乐枪枪》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4343,7 +4737,8 @@
                 "hard": "",
                 "oni": 10
             },
-            "name_cn": "就是里左轮"
+            "name_cn": "就是里左轮",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4354,7 +4749,8 @@
                 "hard": 4,
                 "oni": 6
             },
-            "name_cn": "出自《友情装着！ブットバースト》"
+            "name_cn": "出自《友情装着！ブットバースト》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4365,7 +4761,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "《百獣大戦グレートアニマルカイザー》主题曲"
+            "name_cn": "《百獣大戦グレートアニマルカイザー》主题曲",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4376,7 +4773,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "出自《肌肉进行曲》"
+            "name_cn": "出自《肌肉进行曲》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4387,7 +4785,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "出自《肌肉进行曲》"
+            "name_cn": "出自《肌肉进行曲》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4398,7 +4797,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": "出自《深渊传说》"
+            "name_cn": "出自《深渊传说》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4409,7 +4809,8 @@
                 "hard": 5,
                 "oni": 8
             },
-            "name_cn": "出自《世界传说：Reve Unitia》"
+            "name_cn": "出自《世界传说：Reve Unitia》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4420,7 +4821,8 @@
                 "hard": 6,
                 "oni": 9
             },
-            "name_cn": "出自《噬神者2》"
+            "name_cn": "出自《噬神者2》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4431,7 +4833,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": "出自《噬神者BURST》"
+            "name_cn": "出自《噬神者BURST》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4442,7 +4845,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": "出自《噬神者》"
+            "name_cn": "出自《噬神者》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4453,7 +4857,8 @@
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": "出自《噬神者》"
+            "name_cn": "出自《噬神者》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4464,7 +4869,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "出自《风之克罗诺亚～通往幻梦界之门～》"
+            "name_cn": "出自《风之克罗诺亚～通往幻梦界之门～》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4475,7 +4881,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": "《猫抓老鼠（Mappy）》组曲Remix"
+            "name_cn": "《猫抓老鼠（Mappy）》组曲Remix",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4486,7 +4893,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": "出自《Knuckle Heads》（南梦宫早期格斗游戏）"
+            "name_cn": "出自《Knuckle Heads》（南梦宫早期格斗游戏）",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4497,7 +4905,8 @@
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": "出自《Blazer》"
+            "name_cn": "出自《Blazer》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4508,7 +4917,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "出自《Assault 》"
+            "name_cn": "出自《Assault 》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4519,7 +4929,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": "出自《TANK! TANK! TANK!》"
+            "name_cn": "出自《TANK! TANK! TANK!》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4530,7 +4941,8 @@
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": "出自《大蜜蜂军团DX（Galaga Legions DX）》"
+            "name_cn": "出自《大蜜蜂军团DX（Galaga Legions DX）》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4541,7 +4953,8 @@
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": "出自《皇牌空战X2：联合攻击》"
+            "name_cn": "出自《皇牌空战X2：联合攻击》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4552,7 +4965,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "剑魂2（里谱面为双人谱）"
+            "name_cn": "剑魂2（里谱面为双人谱）",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4563,7 +4977,8 @@
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": "出自《Ridge Racer 3D》"
+            "name_cn": "出自《Ridge Racer 3D》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4574,7 +4989,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": "出自《Ridge Racer 4D》"
+            "name_cn": "出自《Ridge Racer 4D》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4585,7 +5001,8 @@
                 "hard": "",
                 "oni": 10
             },
-            "name_cn": "出自《Ridge Racer 5D》"
+            "name_cn": "出自《Ridge Racer 5D》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4596,7 +5013,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": "出自《Rave Racer》"
+            "name_cn": "出自《Rave Racer》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4607,7 +5025,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "出自《R4 -RIDGE RACER TYPE 4-》"
+            "name_cn": "出自《R4 -RIDGE RACER TYPE 4-》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4618,7 +5037,8 @@
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": "出自《RIDGE RACERS 2》"
+            "name_cn": "出自《RIDGE RACERS 2》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4629,7 +5049,8 @@
                 "hard": 8,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4640,7 +5061,8 @@
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4651,7 +5073,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4662,7 +5085,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": "出自《铁拳 Tag Tournament 2 Wii U版》"
+            "name_cn": "出自《铁拳 Tag Tournament 2 Wii U版》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4673,7 +5097,8 @@
                 "hard": 6,
                 "oni": 9
             },
-            "name_cn": "出自《铁拳3D Prime Edition》"
+            "name_cn": "出自《铁拳3D Prime Edition》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4684,7 +5109,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": "《源平讨魔传》组曲"
+            "name_cn": "《源平讨魔传》组曲",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4695,7 +5121,8 @@
                 "hard": "",
                 "oni": 10
             },
-            "name_cn": "《源平讨魔传》组曲"
+            "name_cn": "《源平讨魔传》组曲",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4706,7 +5133,8 @@
                 "hard": 7,
                 "oni": 7
             },
-            "name_cn": "出自《迷宫塔》"
+            "name_cn": "出自《迷宫塔》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4717,7 +5145,8 @@
                 "hard": 6,
                 "oni": 6
             },
-            "name_cn": "出自《偶像大师 全力以赴》"
+            "name_cn": "出自《偶像大师 全力以赴》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4728,7 +5157,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": "出自《偶像大师》"
+            "name_cn": "出自《偶像大师》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4739,7 +5169,8 @@
                 "hard": "",
                 "oni": 10
             },
-            "name_cn": "出自《偶像大师》"
+            "name_cn": "出自《偶像大师》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4750,7 +5181,8 @@
                 "hard": 3,
                 "oni": 6
             },
-            "name_cn": "出自《偶像大师》"
+            "name_cn": "出自《偶像大师》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4761,7 +5193,8 @@
                 "hard": 4,
                 "oni": 7
             },
-            "name_cn": "出自《偶像大师》"
+            "name_cn": "出自《偶像大师》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4772,7 +5205,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "出自《偶像大师》"
+            "name_cn": "出自《偶像大师》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4783,7 +5217,8 @@
                 "hard": 4,
                 "oni": 6
             },
-            "name_cn": "出自《偶像大师》"
+            "name_cn": "出自《偶像大师》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4794,7 +5229,8 @@
                 "hard": 4,
                 "oni": 5
             },
-            "name_cn": "出自《偶像大师》"
+            "name_cn": "出自《偶像大师》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4805,7 +5241,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "出自《偶像大师》"
+            "name_cn": "出自《偶像大师》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4816,7 +5253,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": "出自《偶像大师》"
+            "name_cn": "出自《偶像大师》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4827,7 +5265,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4838,7 +5277,8 @@
                 "hard": 7,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4849,7 +5289,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4860,7 +5301,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4871,7 +5313,8 @@
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4882,7 +5325,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4893,7 +5337,8 @@
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": "出自《maimai》，俗称水神"
+            "name_cn": "出自《maimai》，俗称水神",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4904,7 +5349,8 @@
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": "出自《Groove Coaster》，俗称风神"
+            "name_cn": "出自《Groove Coaster》，俗称风神",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4915,7 +5361,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": "出自《Jubeat》，俗称土神"
+            "name_cn": "出自《Jubeat》，俗称土神",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4926,7 +5373,8 @@
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": "出自《maimai》"
+            "name_cn": "出自《maimai》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4937,7 +5385,8 @@
                 "hard": "",
                 "oni": 10
             },
-            "name_cn": "出自《maimai》"
+            "name_cn": "出自《maimai》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4948,7 +5397,20 @@
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": "出自《Groove Coaster》"
+            "name_cn": "出自《Groove Coaster》",
+            "已核对": 1
+        },
+        {
+            "category": "游戏音乐",
+            "name": "Got more raves?（裏）",
+            "level": {
+                "easy": "",
+                "normal": 7,
+                "hard": 8,
+                "oni": 10
+            },
+            "name_cn": "出自《Groove Coaster》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4959,7 +5421,8 @@
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": "出自《Jubeat》"
+            "name_cn": "出自《Jubeat》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4970,7 +5433,8 @@
                 "hard": "",
                 "oni": 10
             },
-            "name_cn": "出自《Jubeat》"
+            "name_cn": "出自《Jubeat》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4981,7 +5445,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": "《迷宫塔》组曲"
+            "name_cn": "《迷宫塔》组曲",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -4992,7 +5457,8 @@
                 "hard": 4,
                 "oni": 5
             },
-            "name_cn": "出自《勇者斗恶龙X》"
+            "name_cn": "出自《勇者斗恶龙X》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5003,7 +5469,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": "出自《肌肉进行曲》"
+            "name_cn": "出自《肌肉进行曲》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5014,7 +5481,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5025,7 +5493,8 @@
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": "出自《偶像大师 灰姑娘女孩》"
+            "name_cn": "出自《偶像大师 灰姑娘女孩》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5036,7 +5505,8 @@
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": "出自《偶像大师 灰姑娘女孩》"
+            "name_cn": "出自《偶像大师 灰姑娘女孩》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5047,7 +5517,8 @@
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": "出自《偶像大师 灰姑娘女孩》"
+            "name_cn": "出自《偶像大师 灰姑娘女孩》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5058,7 +5529,8 @@
                 "hard": "",
                 "oni": 8
             },
-            "name_cn": "出自《偶像大师 灰姑娘女孩》"
+            "name_cn": "出自《偶像大师 灰姑娘女孩》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5069,7 +5541,8 @@
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": "出自《偶像大师 灰姑娘女孩》"
+            "name_cn": "出自《偶像大师 灰姑娘女孩》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5080,7 +5553,8 @@
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": "出自《偶像大师 灰姑娘女孩》"
+            "name_cn": "出自《偶像大师 灰姑娘女孩》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5091,7 +5565,8 @@
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": "出自《皇牌空战2》"
+            "name_cn": "出自《皇牌空战2》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5102,7 +5577,8 @@
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": "出自《Critical Velocity》"
+            "name_cn": "出自《Critical Velocity》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5113,7 +5589,8 @@
                 "hard": 3,
                 "oni": 6
             },
-            "name_cn": "出自《龙珠群雄》"
+            "name_cn": "出自《龙珠群雄》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5124,7 +5601,8 @@
                 "hard": 4,
                 "oni": 7
             },
-            "name_cn": "拜托了！灰姑娘 出自《偶像大师灰姑娘女孩》"
+            "name_cn": "拜托了！灰姑娘 出自《偶像大师灰姑娘女孩》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5135,7 +5613,8 @@
                 "hard": 4,
                 "oni": 7
             },
-            "name_cn": "出自《偶像大师2》"
+            "name_cn": "出自《偶像大师2》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5146,7 +5625,8 @@
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": "出自《偶像大师2》"
+            "name_cn": "出自《偶像大师2》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5157,7 +5637,8 @@
                 "hard": 4,
                 "oni": 6
             },
-            "name_cn": "出自《偶像大师 全力以赴》"
+            "name_cn": "出自《偶像大师 全力以赴》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5168,7 +5649,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "出自《智龙迷城Z》"
+            "name_cn": "出自《智龙迷城Z》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5179,7 +5661,8 @@
                 "hard": 6,
                 "oni": 9
             },
-            "name_cn": "《妖怪手表》BGM组曲"
+            "name_cn": "《妖怪手表》BGM组曲",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5190,7 +5673,8 @@
                 "hard": 4,
                 "oni": 8
             },
-            "name_cn": "游戏《THE IDOLM@STER》主题曲"
+            "name_cn": "游戏《THE IDOLM@STER》主题曲",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5201,7 +5685,8 @@
                 "hard": "",
                 "oni": 8
             },
-            "name_cn": "游戏《THE IDOLM@STER》主题曲"
+            "name_cn": "游戏《THE IDOLM@STER》主题曲",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5212,7 +5697,8 @@
                 "hard": 5,
                 "oni": 8
             },
-            "name_cn": "出自《偶像大师Million Live》"
+            "name_cn": "出自《偶像大师Million Live》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5223,7 +5709,8 @@
                 "hard": 4,
                 "oni": 7
             },
-            "name_cn": "《偶像大师》AC版收录曲"
+            "name_cn": "《偶像大师》AC版收录曲",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5234,7 +5721,8 @@
                 "hard": "",
                 "oni": 6
             },
-            "name_cn": "《偶像大师》AC版收录曲"
+            "name_cn": "《偶像大师》AC版收录曲",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5245,7 +5733,8 @@
                 "hard": 4,
                 "oni": 8
             },
-            "name_cn": "《THE IDOLM@STER Live For You》收录曲"
+            "name_cn": "《THE IDOLM@STER Live For You》收录曲",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5256,7 +5745,8 @@
                 "hard": "",
                 "oni": 7
             },
-            "name_cn": "《THE IDOLM@STER Live For You》收录曲"
+            "name_cn": "《THE IDOLM@STER Live For You》收录曲",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5267,7 +5757,8 @@
                 "hard": 5,
                 "oni": 9
             },
-            "name_cn": "出自《偶像大师 闪耀TV》"
+            "name_cn": "出自《偶像大师 闪耀TV》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5278,7 +5769,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "爱马仕10周年+太鼓15周年特别曲"
+            "name_cn": "爱马仕10周年+太鼓15周年特别曲",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5289,7 +5781,8 @@
                 "hard": 8,
                 "oni": 8
             },
-            "name_cn": "出自《铁拳Revolution》"
+            "name_cn": "出自《铁拳Revolution》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5300,7 +5793,8 @@
                 "hard": "",
                 "oni": 10
             },
-            "name_cn": "出自《铁拳Revolution》"
+            "name_cn": "出自《铁拳Revolution》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5311,7 +5805,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "出自《锁链战记》"
+            "name_cn": "出自《锁链战记》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5322,7 +5817,8 @@
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": "出自《锁链战记》"
+            "name_cn": "出自《锁链战记》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5333,7 +5829,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "出自《锁链战记》"
+            "name_cn": "出自《锁链战记》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5344,7 +5841,8 @@
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": "出自《锁链战记》"
+            "name_cn": "出自《锁链战记》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5355,7 +5853,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "出自《锁链战记》"
+            "name_cn": "出自《锁链战记》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5366,7 +5865,8 @@
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": "出自《锁链战记》"
+            "name_cn": "出自《锁链战记》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5377,7 +5877,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "出自《偶像大师 SideM》"
+            "name_cn": "出自《偶像大师 SideM》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5388,7 +5889,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": "出自《南梦宫星光（不是）Synchronica》"
+            "name_cn": "出自《南梦宫星光（不是）Synchronica》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5399,7 +5901,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "出自《Synchronica》"
+            "name_cn": "出自《Synchronica》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5410,7 +5913,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": "出自《Synchronica》"
+            "name_cn": "出自《Synchronica》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5421,7 +5925,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "出自《龙珠群雄》"
+            "name_cn": "出自《龙珠群雄》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5432,7 +5937,8 @@
                 "hard": 3,
                 "oni": 8
             },
-            "name_cn": "出自《偶像大师 M@STERS OF IDOL WORLD!!2015》"
+            "name_cn": "出自《偶像大师 M@STERS OF IDOL WORLD!!2015》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5443,7 +5949,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": "出自《洛克人2 威利博士之谜》"
+            "name_cn": "出自《洛克人2 威利博士之谜》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5454,7 +5961,8 @@
                 "hard": 7,
                 "oni": 7
             },
-            "name_cn": "出自《伊苏I&II编年史》"
+            "name_cn": "出自《伊苏I&II编年史》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5465,7 +5973,8 @@
                 "hard": 4,
                 "oni": 8
             },
-            "name_cn": "出自《しんぐんデストロ～イ！》"
+            "name_cn": "出自《しんぐんデストロ～イ！》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5476,7 +5985,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5487,7 +5997,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "出自《R4 -RIDGE RACER TYPE 4-》"
+            "name_cn": "出自《R4 -RIDGE RACER TYPE 4-》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5498,7 +6009,8 @@
                 "hard": 7,
                 "oni": 7
             },
-            "name_cn": "出自《Critical Velocity》"
+            "name_cn": "出自《Critical Velocity》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5509,7 +6021,8 @@
                 "hard": "",
                 "oni": 10
             },
-            "name_cn": "出自《Critical Velocity》"
+            "name_cn": "出自《Critical Velocity》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5520,7 +6033,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "出自《Synchronica》"
+            "name_cn": "出自《Synchronica》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5531,7 +6045,8 @@
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": "出自《碧蓝幻想》"
+            "name_cn": "出自《碧蓝幻想》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5542,7 +6057,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "出自《碧蓝幻想》"
+            "name_cn": "出自《碧蓝幻想》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5553,7 +6069,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": "出自《智龙迷城》"
+            "name_cn": "出自《智龙迷城》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5564,7 +6081,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": "出自《智龙迷城》"
+            "name_cn": "出自《智龙迷城》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5575,7 +6093,8 @@
                 "hard": 6,
                 "oni": 9
             },
-            "name_cn": "游戏《磁幽灵猎人 绯蓝 深红》ED"
+            "name_cn": "游戏《磁幽灵猎人 绯蓝 深红》ED",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5586,7 +6105,8 @@
                 "hard": 5,
                 "oni": 8
             },
-            "name_cn": "星之卡比组曲"
+            "name_cn": "星之卡比组曲",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5597,7 +6117,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": "出自CAPCOM《crossbeats REV. SUNRISE》"
+            "name_cn": "出自CAPCOM《crossbeats REV. SUNRISE》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5608,7 +6129,8 @@
                 "hard": 5,
                 "oni": 8
             },
-            "name_cn": "出自《智龙迷城X》"
+            "name_cn": "出自《智龙迷城X》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5619,7 +6141,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": "出自《太空战斗机爆裂》"
+            "name_cn": "出自《太空战斗机爆裂》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5630,7 +6153,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": "出自《湾岸5》"
+            "name_cn": "出自《湾岸5》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5641,7 +6165,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5652,7 +6177,8 @@
                 "hard": 6,
                 "oni": 9
             },
-            "name_cn": "出自《铁拳7 FR》"
+            "name_cn": "出自《铁拳7 FR》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5663,7 +6189,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": "《偶像大师灰姑娘女孩》CD收录曲"
+            "name_cn": "《偶像大师灰姑娘女孩》CD收录曲",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5674,7 +6201,8 @@
                 "hard": 5,
                 "oni": 8
             },
-            "name_cn": "《偶像大师灰姑娘女孩》CD收录曲"
+            "name_cn": "《偶像大师灰姑娘女孩》CD收录曲",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5685,7 +6213,8 @@
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": "《偶像大师灰姑娘女孩》CD收录曲"
+            "name_cn": "《偶像大师灰姑娘女孩》CD收录曲",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5696,7 +6225,8 @@
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": "《偶像大师灰姑娘女孩》CD收录曲"
+            "name_cn": "《偶像大师灰姑娘女孩》CD收录曲",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5707,7 +6237,8 @@
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": "《偶像大师灰姑娘女孩》CD收录曲"
+            "name_cn": "《偶像大师灰姑娘女孩》CD收录曲",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5718,7 +6249,8 @@
                 "hard": 6,
                 "oni": 9
             },
-            "name_cn": "出自《SDVX》"
+            "name_cn": "出自《SDVX》",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5729,7 +6261,8 @@
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": "《超 龙珠 群雄》主题曲"
+            "name_cn": "《超 龙珠 群雄》主题曲",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5740,7 +6273,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "《精灵宝可梦 日月》组曲"
+            "name_cn": "《精灵宝可梦 日月》组曲",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5751,7 +6285,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": "Family Computer组曲"
+            "name_cn": "Family Computer组曲",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5762,7 +6297,8 @@
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": "出自《偶像大师 灰姑娘女孩》CD收录曲"
+            "name_cn": "出自《偶像大师 灰姑娘女孩》CD收录曲",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5773,7 +6309,8 @@
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": "出自《偶像大师 灰姑娘女孩》CD收录曲"
+            "name_cn": "出自《偶像大师 灰姑娘女孩》CD收录曲",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5784,7 +6321,8 @@
                 "hard": 4,
                 "oni": 6
             },
-            "name_cn": "出自《偶像大师 灰姑娘女孩》CD收录曲"
+            "name_cn": "出自《偶像大师 灰姑娘女孩》CD收录曲",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5795,7 +6333,8 @@
                 "hard": 5,
                 "oni": 8
             },
-            "name_cn": "出自《偶像大师 灰姑娘女孩》CD收录曲"
+            "name_cn": "出自《偶像大师 灰姑娘女孩》CD收录曲",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5806,7 +6345,8 @@
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": "出自《偶像大师 灰姑娘女孩》CD收录曲"
+            "name_cn": "出自《偶像大师 灰姑娘女孩》CD收录曲",
+            "已核对": 1
         },
         {
             "category": "游戏音乐",
@@ -5817,7 +6357,8 @@
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": "出自《偶像大师 灰姑娘女孩》CD收录曲"
+            "name_cn": "出自《偶像大师 灰姑娘女孩》CD收录曲",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -5828,7 +6369,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "日全食2035"
+            "name_cn": "日全食2035",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -5839,7 +6381,8 @@
                 "hard": 4,
                 "oni": 5
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -5850,7 +6393,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -5861,7 +6405,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -5872,7 +6417,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -5883,7 +6429,8 @@
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -5894,7 +6441,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -5905,7 +6453,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -5916,7 +6465,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -5927,7 +6477,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -5938,7 +6489,8 @@
                 "hard": 6,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -5949,7 +6501,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -5960,7 +6513,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -5971,7 +6525,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -5982,7 +6537,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": "Sacred Ruin"
+            "name_cn": "Sacred Ruin",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -5993,7 +6549,8 @@
                 "hard": "",
                 "oni": 10
             },
-            "name_cn": "Sacred Ruin"
+            "name_cn": "Sacred Ruin",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6004,7 +6561,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": "Picopico Ruin"
+            "name_cn": "Picopico Ruin",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6015,7 +6573,8 @@
                 "hard": "",
                 "oni": 10
             },
-            "name_cn": "Picopico Ruin"
+            "name_cn": "Picopico Ruin",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6026,7 +6585,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6037,7 +6597,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6048,7 +6609,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": "Her Ghost Friend"
+            "name_cn": "Her Ghost Friend",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6059,7 +6621,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6070,7 +6633,8 @@
                 "hard": 5,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6081,7 +6645,8 @@
                 "hard": 5,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6092,7 +6657,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6103,7 +6669,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6114,7 +6681,8 @@
                 "hard": 8,
                 "oni": 8
             },
-            "name_cn": "Alexander's Theme"
+            "name_cn": "Alexander's Theme",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6125,7 +6693,8 @@
                 "hard": 7,
                 "oni": 10
             },
-            "name_cn": "毕业式 Part.1"
+            "name_cn": "毕业式 Part.1",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6136,7 +6705,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6147,7 +6717,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6158,7 +6729,8 @@
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6169,7 +6741,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6180,7 +6753,8 @@
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6191,7 +6765,8 @@
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6202,7 +6777,8 @@
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6213,7 +6789,8 @@
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6224,7 +6801,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6235,7 +6813,8 @@
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6246,7 +6825,8 @@
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6257,7 +6837,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6268,7 +6849,8 @@
                 "hard": 8,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6279,7 +6861,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6290,7 +6873,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6301,7 +6885,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6312,7 +6897,8 @@
                 "hard": 4,
                 "oni": 6
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6323,7 +6909,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6334,7 +6921,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6345,7 +6933,8 @@
                 "hard": 5,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6356,7 +6945,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": "Nightmare Survivor"
+            "name_cn": "Nightmare Survivor",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6367,7 +6957,8 @@
                 "hard": "",
                 "oni": 10
             },
-            "name_cn": "Nightmare Survivor"
+            "name_cn": "Nightmare Survivor",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6378,7 +6969,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6389,7 +6981,8 @@
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6400,7 +6993,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6411,7 +7005,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6422,7 +7017,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6433,7 +7029,8 @@
                 "hard": 6,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6444,7 +7041,8 @@
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6455,7 +7053,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6466,7 +7065,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6477,7 +7077,8 @@
                 "hard": 4,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6488,7 +7089,8 @@
                 "hard": 6,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6499,7 +7101,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6510,7 +7113,8 @@
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6521,7 +7125,8 @@
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6532,7 +7137,8 @@
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6543,7 +7149,8 @@
                 "hard": 5,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6554,7 +7161,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6565,7 +7173,8 @@
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6576,7 +7185,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6587,7 +7197,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6598,7 +7209,8 @@
                 "hard": 5,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6609,7 +7221,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6620,7 +7233,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6631,7 +7245,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6642,7 +7257,8 @@
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6653,7 +7269,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6664,7 +7281,8 @@
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6675,7 +7293,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6686,7 +7305,8 @@
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6697,7 +7317,8 @@
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6708,7 +7329,8 @@
                 "hard": 8,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6719,7 +7341,8 @@
                 "hard": 8,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6730,7 +7353,8 @@
                 "hard": 4,
                 "oni": 6
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6741,7 +7365,8 @@
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6752,7 +7377,8 @@
                 "hard": 5,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6763,7 +7389,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6774,7 +7401,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6785,7 +7413,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6796,7 +7425,8 @@
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6807,7 +7437,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6818,7 +7449,8 @@
                 "hard": 7,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6829,7 +7461,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6840,7 +7473,8 @@
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6851,7 +7485,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6862,7 +7497,8 @@
                 "hard": "",
                 "oni": 10
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6873,7 +7509,8 @@
                 "hard": 4,
                 "oni": 6
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6884,7 +7521,8 @@
                 "hard": 4,
                 "oni": 5
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6895,7 +7533,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6906,7 +7545,8 @@
                 "hard": 8,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6917,7 +7557,8 @@
                 "hard": "",
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6928,7 +7569,8 @@
                 "hard": 7,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6939,7 +7581,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6950,7 +7593,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6961,7 +7605,8 @@
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6972,7 +7617,8 @@
                 "hard": "",
                 "oni": 10
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6983,7 +7629,8 @@
                 "hard": 8,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -6994,7 +7641,8 @@
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7005,7 +7653,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": "天使之梦（里）"
+            "name_cn": "天使之梦（里）",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7016,7 +7665,8 @@
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": "天使之梦"
+            "name_cn": "天使之梦",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7027,7 +7677,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "风之幻想"
+            "name_cn": "风之幻想",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7038,7 +7689,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": "蜡笔之梦"
+            "name_cn": "蜡笔之梦",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7049,7 +7701,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7060,7 +7713,8 @@
                 "hard": 6,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7071,7 +7725,8 @@
                 "hard": 7,
                 "oni": 6
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7082,7 +7737,8 @@
                 "hard": 7,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7093,7 +7749,8 @@
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7104,7 +7761,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7115,7 +7773,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": "METAL POLIS"
+            "name_cn": "METAL POLIS",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7126,7 +7785,8 @@
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": "METAL POLIS"
+            "name_cn": "METAL POLIS",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7137,7 +7797,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7148,7 +7809,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": "Taiko Time"
+            "name_cn": "Taiko Time",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7159,7 +7821,8 @@
                 "hard": "",
                 "oni": 10
             },
-            "name_cn": "Taiko Time（里）"
+            "name_cn": "Taiko Time（里）",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7170,7 +7833,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7181,7 +7845,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7192,7 +7857,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7203,7 +7869,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7214,7 +7881,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7225,7 +7893,8 @@
                 "hard": 5,
                 "oni": 5
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7236,7 +7905,8 @@
                 "hard": "",
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7247,7 +7917,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7258,7 +7929,8 @@
                 "hard": 5,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7269,7 +7941,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7280,7 +7953,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7291,7 +7965,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7302,7 +7977,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7313,7 +7989,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7324,7 +8001,8 @@
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7335,7 +8013,8 @@
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7346,7 +8025,8 @@
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7357,7 +8037,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7368,7 +8049,8 @@
                 "hard": 4,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7379,7 +8061,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7390,7 +8073,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7401,7 +8085,8 @@
                 "hard": "",
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7412,7 +8097,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7423,7 +8109,8 @@
                 "hard": "",
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7434,7 +8121,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7445,7 +8133,8 @@
                 "hard": "",
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7456,7 +8145,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7467,7 +8157,8 @@
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7478,7 +8169,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7489,7 +8181,8 @@
                 "hard": "",
                 "oni": 10
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7500,7 +8193,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7511,7 +8205,8 @@
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7522,7 +8217,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": "咚咚咔咚"
+            "name_cn": "咚咚咔咚",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7533,7 +8229,8 @@
                 "hard": "",
                 "oni": 10
             },
-            "name_cn": "咚咚咔咚（里）"
+            "name_cn": "咚咚咔咚（里）",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7544,7 +8241,8 @@
                 "hard": 8,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7555,7 +8253,8 @@
                 "hard": "",
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7566,7 +8265,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7577,7 +8277,8 @@
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7588,7 +8289,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7599,7 +8301,8 @@
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7610,7 +8313,8 @@
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7621,7 +8325,8 @@
                 "hard": "",
                 "oni": 10
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7632,7 +8337,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7643,7 +8349,8 @@
                 "hard": "",
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7654,7 +8361,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7665,7 +8373,8 @@
                 "hard": 8,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7676,7 +8385,8 @@
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7687,7 +8397,8 @@
                 "hard": 7,
                 "oni": 10
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7698,7 +8409,8 @@
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7709,7 +8421,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7720,7 +8433,8 @@
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7731,7 +8445,8 @@
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7742,7 +8457,8 @@
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7753,7 +8469,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7764,7 +8481,8 @@
                 "hard": 7,
                 "oni": 10
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7775,7 +8493,8 @@
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7786,7 +8505,8 @@
                 "hard": 7,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "埼玉2000",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7797,7 +8517,8 @@
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "速埼玉2000",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7808,7 +8529,8 @@
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "法会2000",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7819,7 +8541,8 @@
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "情书2000",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7830,7 +8553,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "欲出2000",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7841,7 +8565,8 @@
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "北埼玉200",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7852,7 +8577,8 @@
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": ""
+            "name_cn": "北埼玉2000",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7863,7 +8589,8 @@
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": ""
+            "name_cn": "珠算2000",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7874,7 +8601,8 @@
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": ""
+            "name_cn": "天竺2000",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7885,7 +8613,8 @@
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": ""
+            "name_cn": "盒饭2000",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7896,7 +8625,8 @@
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": ""
+            "name_cn": "打工2000",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7907,7 +8637,8 @@
                 "hard": 1,
                 "oni": 1
             },
-            "name_cn": ""
+            "name_cn": "黄不倒翁2000",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7918,7 +8649,8 @@
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": ""
+            "name_cn": "组曲2000",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7929,7 +8661,8 @@
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": ""
+            "name_cn": "成仏二千",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7940,7 +8673,8 @@
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": ""
+            "name_cn": "MaTa埼玉2000（复埼玉2000）",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7951,7 +8685,8 @@
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": ""
+            "name_cn": "苏哈2000",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7962,7 +8697,8 @@
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": ""
+            "name_cn": "咚咔嘛2000",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7973,7 +8709,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7984,7 +8721,8 @@
                 "hard": 7,
                 "oni": 7
             },
-            "name_cn": "Scroll Mika"
+            "name_cn": "Scroll Mika",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -7995,7 +8733,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8006,7 +8745,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8017,7 +8757,8 @@
                 "hard": 7,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8028,7 +8769,8 @@
                 "hard": 4,
                 "oni": 6
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8039,7 +8781,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8050,7 +8793,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8061,7 +8805,8 @@
                 "hard": 7,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8072,7 +8817,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8083,7 +8829,8 @@
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8094,7 +8841,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8105,7 +8853,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8116,7 +8865,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8127,7 +8877,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8138,7 +8889,8 @@
                 "hard": "",
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8149,7 +8901,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8160,7 +8913,8 @@
                 "hard": "",
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8171,7 +8925,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8182,7 +8937,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8193,7 +8949,8 @@
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": "禁食2000"
+            "name_cn": "禁食2000",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8204,7 +8961,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "东京苏打 8bit Edit",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8215,7 +8973,8 @@
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": "X-DAY2三个零"
+            "name_cn": "X-DAY2三个零",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8226,7 +8985,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8237,7 +8997,8 @@
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8248,7 +9009,8 @@
                 "hard": 5,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8259,7 +9021,8 @@
                 "hard": 7,
                 "oni": 10
             },
-            "name_cn": "乘慢车2000"
+            "name_cn": "乘慢车2000",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8270,7 +9033,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8281,7 +9045,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8292,7 +9057,8 @@
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8303,7 +9069,8 @@
                 "hard": 6,
                 "oni": 6
             },
-            "name_cn": "たんきゅんデモクラシー"
+            "name_cn": "たんきゅんデモクラシー",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8314,7 +9081,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8325,7 +9093,8 @@
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8336,7 +9105,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8347,7 +9117,8 @@
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": "超车（不对）Chaos Time"
+            "name_cn": "超车（不对）Chaos Time",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8358,7 +9129,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8369,7 +9141,8 @@
                 "hard": "",
                 "oni": 10
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8380,7 +9153,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8391,7 +9165,8 @@
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8402,7 +9177,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8413,7 +9189,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8424,7 +9201,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8435,7 +9213,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8446,7 +9225,8 @@
                 "hard": 4,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8457,7 +9237,8 @@
                 "hard": "",
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8468,7 +9249,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8479,7 +9261,8 @@
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8490,7 +9273,8 @@
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8501,7 +9285,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8512,7 +9297,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8523,7 +9309,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8534,7 +9321,8 @@
                 "hard": 6,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8545,7 +9333,8 @@
                 "hard": 6,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8556,7 +9345,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8567,7 +9357,8 @@
                 "hard": 5,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8578,7 +9369,8 @@
                 "hard": 7,
                 "oni": 10
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8589,7 +9381,8 @@
                 "hard": 5,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8600,7 +9393,8 @@
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8611,7 +9405,8 @@
                 "hard": 6,
                 "oni": 10
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8622,7 +9417,8 @@
                 "hard": 7,
                 "oni": 10
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8633,7 +9429,8 @@
                 "hard": 6,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8644,7 +9441,8 @@
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8655,7 +9453,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8666,7 +9465,8 @@
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8677,7 +9477,8 @@
                 "hard": 2,
                 "oni": 1
             },
-            "name_cn": "欲出2000*7.65"
+            "name_cn": "欲出2000*7.65",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8688,7 +9489,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": "黄泉的伊邪那美"
+            "name_cn": "黄泉的伊邪那美",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8699,7 +9501,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8710,7 +9513,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8721,7 +9525,8 @@
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8732,7 +9537,8 @@
                 "hard": 7,
                 "oni": 10
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8743,7 +9549,8 @@
                 "hard": 7,
                 "oni": 10
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8754,7 +9561,8 @@
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8765,7 +9573,8 @@
                 "hard": 6,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8776,7 +9585,8 @@
                 "hard": 4,
                 "oni": 6
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8787,7 +9597,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8798,7 +9609,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8809,7 +9621,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": "自私大小姐"
+            "name_cn": "自私大小姐",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8820,7 +9633,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8831,7 +9645,8 @@
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8842,7 +9657,8 @@
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": "MaDa埼玉2000"
+            "name_cn": "MaDa埼玉2000（还是埼玉2000）",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8853,7 +9669,8 @@
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": ""
+            "name_cn": "束丝",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8864,7 +9681,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8875,7 +9693,8 @@
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8886,7 +9705,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8897,7 +9717,8 @@
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8908,7 +9729,8 @@
                 "hard": 6,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8919,7 +9741,8 @@
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8930,7 +9753,8 @@
                 "hard": 6,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8941,7 +9765,8 @@
                 "hard": 7,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8952,7 +9777,8 @@
                 "hard": "",
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8963,7 +9789,8 @@
                 "hard": 6,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8974,7 +9801,8 @@
                 "hard": 7,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8985,7 +9813,8 @@
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "光之彼方（短版）",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -8996,7 +9825,8 @@
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -9007,7 +9837,8 @@
                 "hard": 3,
                 "oni": 4
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -9018,7 +9849,8 @@
                 "hard": "",
                 "oni": 8
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -9029,7 +9861,8 @@
                 "hard": 7,
                 "oni": 10
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -9040,7 +9873,8 @@
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": ""
+            "name_cn": "",
+            "已核对": 1
         },
         {
             "category": "Namco原创",
@@ -9051,7 +9885,8 @@
                 "hard": 7,
                 "oni": 10
             },
-            "name_cn": "毕业式 Part.2"
+            "name_cn": "毕业式 Part.2",
+            "已核对": 1
         }
     ]
 }
