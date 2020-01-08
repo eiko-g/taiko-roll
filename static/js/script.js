@@ -47,7 +47,7 @@ $(document).ready(function () {
     载入歌单('taiko14old', 1);
     载入歌单('taiko14new', 1);
     载入歌单('taikomomoiroSP', 20191130);
-    载入歌单('taikoRedSP', 2019122302);
+    载入歌单('taikoRedSP', 2020010901);
     // 载入歌单('error', 123);
 
     //#region 设置相关
