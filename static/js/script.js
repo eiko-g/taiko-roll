@@ -143,7 +143,7 @@ docReady(() => {
         });
     }
     // 载入歌单('taiko14old', 1);
-    载入歌单('taiko14new', 2020070901);
+    载入歌单('taiko14new', 2020070902);
     // 载入歌单('taikomomoiroSP', 20191130);
     载入歌单('taikoRedSP', 2020070901);
     // 载入歌单('error', 123);
@@ -158,6 +158,9 @@ docReady(() => {
     // 点击就显示设置框
     设置按钮.addEventListener('click', () => {
         getEl('.option-main')[0].classList.add('show');
+        if (getEl('#category-list').innerHTML === "") {
+            生成分类();
+        }
     });
     let 表单 = getEl('#option-form');
     // 这里用提交来保存设置
@@ -166,12 +169,18 @@ docReady(() => {
         let
             表单数据 = new FormData(this);
         console.log('表单数据：', 表单数据);
+        window.aaa = 表单数据;
 
         // 清空一下设置，不然会有残留
         设置 = {};
+        设置.抽歌分类 = [];
         // 把 formData 提取出来，不然不能直接用
         for (let [key, value] of 表单数据.entries()) {
-            设置[key] = value;
+            if (key == "抽歌分类") {
+                设置.抽歌分类.push(value);
+            } else {
+                设置[key] = value;
+            }
         }
         // 关窗
         getEl('.option-main')[0].classList.remove('show');
@@ -194,7 +203,19 @@ docReady(() => {
         console.log('筛选前的抽奖歌单：', 抽奖歌单);
         // 抽歌条件
         function 筛选歌单(歌曲) {
-            return (歌曲.等级[设置.难度] >= 设置.最低等级) && (歌曲.等级[设置.难度] <= 设置.最高等级);
+            let result = false;
+            if ((歌曲.等级[设置.难度] >= 设置.最低等级) && (歌曲.等级[设置.难度] <= 设置.最高等级)) {
+                result = true;
+            }
+            if (result && 设置.抽歌分类.length != 0) {
+                let temp = 设置.抽歌分类.find(item => item == 歌曲.分类);
+                if (temp !== undefined) {
+                    result = true;
+                } else {
+                    result = false;
+                }
+            }
+            return result;
         }
         // 筛！
         抽奖歌单 = 抽奖歌单.filter(筛选歌单);
@@ -206,6 +227,36 @@ docReady(() => {
         event.preventDefault();
         return false;
     });
+
+    //#region 生成分类列表
+    let 全部歌单 = getEl('.songlist-selection-input');
+    全部歌单.forEach(单个歌单 => {
+        单个歌单.addEventListener('click', 生成分类);
+    });
+    function 生成分类() {
+        // this 指的是被点击的那个东西
+        let 版本, html = '', 分类列表;
+        if (!this) {
+            版本 = 'taikoRedSP';
+        } else {
+            版本 = this.value;
+        }
+        分类列表 = 载入的JSON[版本].分类;
+        console.log("分类列表：", 分类列表);
+        for (const [key, value] of Object.entries(分类列表)) {
+            html += `<label for="cat-${key}" class="cat-item">
+                        <input
+                            type="checkbox"
+                            name="抽歌分类"
+                            id="cat-${key}"
+                            value="${key}"
+                        />
+                        ${value}
+                    </label>`;
+        }
+        getEl('#category-list').innerHTML = html;
+    }
+    //#endregion
 
     // Roll 歌！
     Roll歌按钮.addEventListener('click', () => {
