@@ -1,2182 +1,2193 @@
 {
-    "data": "20191024",
-    "songList": [{
-            "category": "Namco原创",
-            "name": "またさいたま2000",
-            "level": {
+    "data": "2020070901",
+    "分类": {
+        "jpop": "J-POP",
+        "anime": "动画歌曲",
+        "vocaloid": "V家",
+        "child": "儿歌",
+        "variety": "综艺 & 联动",
+        "classic": "古典音乐",
+        "game": "游戏音乐",
+        "namco": "Namco 原创"
+    },
+    "歌单": [
+        {
+            "分类": "namco",
+            "曲名": "またさいたま2000",
+            "等级": {
                 "easy": 5,
                 "normal": 7,
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": "复埼玉2000"
+            "注释": "复埼玉2000"
         },
         {
-            "category": "Namco原创",
-            "name": "LOVE戦!!",
-            "level": {
+            "分类": "namco",
+            "曲名": "LOVE戦!!",
+            "等级": {
                 "easy": 3,
                 "normal": 5,
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "注释": ""
         },
         {
-            "category": "Namco原创",
-            "name": "宇宙SAMURAI",
-            "level": {
+            "分类": "namco",
+            "曲名": "宇宙SAMURAI",
+            "等级": {
                 "easy": 3,
                 "normal": 6,
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "注释": ""
         },
         {
-            "category": "Namco原创",
-            "name": "Black Rose Apostle",
-            "level": {
+            "分类": "namco",
+            "曲名": "Black Rose Apostle",
+            "等级": {
                 "easy": 5,
                 "normal": 6,
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": ""
+            "注释": ""
         },
         {
-            "category": "Namco原创",
-            "name": "Black Rose Apostle（裏）",
-            "level": {
+            "分类": "namco",
+            "曲名": "Black Rose Apostle（裏）",
+            "等级": {
                 "easy": "",
                 "normal": "",
                 "hard": "",
                 "oni": 10
             },
-            "name_cn": ""
+            "注释": ""
         },
         {
-            "category": "Namco原创",
-            "name": "Sweet Lay",
-            "level": {
+            "分类": "namco",
+            "曲名": "Sweet Lay",
+            "等级": {
                 "easy": 4,
                 "normal": 5,
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "(AC14/DS3)"
+            "注释": "(AC14/DS3)"
         },
         {
-            "category": "Namco原创",
-            "name": "Mulberry",
-            "level": {
+            "分类": "namco",
+            "曲名": "Mulberry",
+            "等级": {
                 "easy": 4,
                 "normal": 6,
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": ""
+            "注释": ""
         },
         {
-            "category": "Namco原创",
-            "name": "NECOLOGY",
-            "level": {
+            "分类": "namco",
+            "曲名": "NECOLOGY",
+            "等级": {
                 "easy": 3,
                 "normal": 5,
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "注释": ""
         },
         {
-            "category": "Namco原创",
-            "name": "SORA-III ヘリオポーズ",
-            "level": {
+            "分类": "namco",
+            "曲名": "SORA-III ヘリオポーズ",
+            "等级": {
                 "easy": 4,
                 "normal": 6,
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": ""
+            "注释": ""
         },
         {
-            "category": "Namco原创",
-            "name": "SORA-IV ブンパソング",
-            "level": {
+            "分类": "namco",
+            "曲名": "SORA-IV ブンパソング",
+            "等级": {
                 "easy": 4,
                 "normal": 7,
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": "(Wii5)"
+            "注释": "(Wii5)"
         },
         {
-            "category": "Namco原创",
-            "name": "タイコタイム",
-            "level": {
+            "分类": "namco",
+            "曲名": "タイコタイム",
+            "等级": {
                 "easy": 5,
                 "normal": 6,
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": "Taiko Time"
+            "注释": "Taiko Time"
         },
         {
-            "category": "Namco原创",
-            "name": "タイコタイム（裏）",
-            "level": {
+            "分类": "namco",
+            "曲名": "タイコタイム（裏）",
+            "等级": {
                 "easy": "",
                 "normal": "",
                 "hard": "",
                 "oni": 10
             },
-            "name_cn": "Taiko Time（裏）"
+            "注释": "Taiko Time（裏）"
         },
         {
-            "category": "Namco原创",
-            "name": "ワルルー様の歌を聴けぇ！",
-            "level": {
+            "分类": "namco",
+            "曲名": "ワルルー様の歌を聴けぇ！",
+            "等级": {
                 "easy": 3,
                 "normal": 5,
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": ""
+            "注释": ""
         },
         {
-            "category": "Namco原创",
-            "name": "ヒカリノカナタヘ",
-            "level": {
+            "分类": "namco",
+            "曲名": "ヒカリノカナタヘ",
+            "等级": {
                 "easy": 4,
                 "normal": 5,
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": "光之彼方"
+            "注释": "光之彼方"
         },
         {
-            "category": "Namco原创",
-            "name": "ヒカリノカナタヘ - LONG VERSION -",
-            "level": {
+            "分类": "namco",
+            "曲名": "ヒカリノカナタヘ - LONG VERSION -",
+            "等级": {
                 "easy": 5,
                 "normal": 5,
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": "光之彼方完整版"
+            "注释": "光之彼方完整版"
         },
         {
-            "category": "Namco原创",
-            "name": "ヌムジカac.10",
-            "level": {
+            "分类": "namco",
+            "曲名": "ヌムジカac.10",
+            "等级": {
                 "easy": 3,
                 "normal": 4,
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": ""
+            "注释": ""
         },
         {
-            "category": "Namco原创",
-            "name": "アルムジカac14.0V",
-            "level": {
+            "分类": "namco",
+            "曲名": "アルムジカac14.0V",
+            "等级": {
                 "easy": 4,
                 "normal": 7,
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": ""
+            "注释": ""
         },
         {
-            "category": "Namco原创",
-            "name": "蛻変～transformation～",
-            "level": {
+            "分类": "namco",
+            "曲名": "蛻変～transformation～",
+            "等级": {
                 "easy": 3,
                 "normal": 5,
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": ""
+            "注释": ""
         },
         {
-            "category": "Namco原创",
-            "name": "蛻変～transformation～（裏）",
-            "level": {
+            "分类": "namco",
+            "曲名": "蛻変～transformation～（裏）",
+            "等级": {
                 "easy": "",
                 "normal": "",
                 "hard": "",
                 "oni": 8
             },
-            "name_cn": ""
+            "注释": ""
         },
         {
-            "category": "Namco原创",
-            "name": "春遊～happy excursion～",
-            "level": {
+            "分类": "namco",
+            "曲名": "春遊～happy excursion～",
+            "等级": {
                 "easy": 4,
                 "normal": 5,
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": ""
+            "注释": ""
         },
         {
-            "category": "Namco原创",
-            "name": "春遊～happy excursion～（裏）",
-            "level": {
+            "分类": "namco",
+            "曲名": "春遊～happy excursion～（裏）",
+            "等级": {
                 "easy": "",
                 "normal": "",
                 "hard": "",
                 "oni": 8
             },
-            "name_cn": ""
+            "注释": ""
         },
         {
-            "category": "Namco原创",
-            "name": "燎原ノ舞",
-            "level": {
+            "分类": "namco",
+            "曲名": "燎原ノ舞",
+            "等级": {
                 "easy": 4,
                 "normal": 6,
                 "hard": 7,
                 "oni": 10
             },
-            "name_cn": ""
+            "注释": ""
         },
         {
-            "category": "Namco原创",
-            "name": "旋風ノ舞【天】",
-            "level": {
+            "分类": "namco",
+            "曲名": "旋風ノ舞【天】",
+            "等级": {
                 "easy": 4,
                 "normal": 5,
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": ""
+            "注释": ""
         },
         {
-            "category": "Namco原创",
-            "name": "旋風ノ舞【地】",
-            "level": {
+            "分类": "namco",
+            "曲名": "旋風ノ舞【地】",
+            "等级": {
                 "easy": 4,
                 "normal": 6,
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": ""
+            "注释": ""
         },
         {
-            "category": "Namco原创",
-            "name": "天妖ノ舞",
-            "level": {
+            "分类": "namco",
+            "曲名": "天妖ノ舞",
+            "等级": {
                 "easy": 3,
                 "normal": 6,
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": ""
+            "注释": ""
         },
         {
-            "category": "Namco原创",
-            "name": "月下美人",
-            "level": {
+            "分类": "namco",
+            "曲名": "月下美人",
+            "等级": {
                 "easy": 4,
                 "normal": 6,
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "注释": ""
         },
         {
-            "category": "Namco原创",
-            "name": "黒船来航",
-            "level": {
+            "分类": "namco",
+            "曲名": "黒船来航",
+            "等级": {
                 "easy": 4,
                 "normal": 5,
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": ""
+            "注释": ""
         },
         {
-            "category": "Namco原创",
-            "name": "百花繚乱",
-            "level": {
+            "分类": "namco",
+            "曲名": "百花繚乱",
+            "等级": {
                 "easy": 3,
                 "normal": 4,
                 "hard": 5,
                 "oni": 8
             },
-            "name_cn": ""
+            "注释": ""
         },
         {
-            "category": "Namco原创",
-            "name": "百鬼夜行",
-            "level": {
+            "分类": "namco",
+            "曲名": "百鬼夜行",
+            "等级": {
                 "easy": 5,
                 "normal": 5,
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": ""
+            "注释": ""
         },
         {
-            "category": "Namco原创",
-            "name": "mint tears",
-            "level": {
+            "分类": "namco",
+            "曲名": "mint tears",
+            "等级": {
                 "easy": 4,
                 "normal": 6,
                 "hard": 7,
                 "oni": 10
             },
-            "name_cn": ""
+            "注释": ""
         },
         {
-            "category": "Namco原创",
-            "name": "夢色コースター",
-            "level": {
+            "分类": "namco",
+            "曲名": "夢色コースター",
+            "等级": {
                 "easy": 4,
                 "normal": 4,
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": "梦色杯垫（？）"
+            "注释": "梦色杯垫（？）"
         },
         {
-            "category": "Namco原创",
-            "name": "めたるぽりす",
-            "level": {
+            "分类": "namco",
+            "曲名": "めたるぽりす",
+            "等级": {
                 "easy": 4,
                 "normal": 6,
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": "Metal Polis"
+            "注释": "Metal Polis"
         },
         {
-            "category": "Namco原创",
-            "name": "トータル・エクリプス 2035 ～少女の時空皆既日食～",
-            "level": {
+            "分类": "namco",
+            "曲名": "トータル・エクリプス 2035 ～少女の時空皆既日食～",
+            "等级": {
                 "easy": 4,
                 "normal": 5,
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": ""
+            "注释": ""
         },
         {
-            "category": "Namco原创",
-            "name": "きみのあかり",
-            "level": {
+            "分类": "namco",
+            "曲名": "きみのあかり",
+            "等级": {
                 "easy": 4,
                 "normal": 4,
                 "hard": 5,
                 "oni": 5
             },
-            "name_cn": "你的光"
+            "注释": "你的光"
         },
         {
-            "category": "Namco原创",
-            "name": "友情ぽっぷ",
-            "level": {
+            "分类": "namco",
+            "曲名": "友情ぽっぷ",
+            "等级": {
                 "easy": 4,
                 "normal": 5,
                 "hard": 7,
                 "oni": 6
             },
-            "name_cn": "友情Pop"
+            "注释": "友情Pop"
         },
         {
-            "category": "Namco原创",
-            "name": "われら無敵のドコン団",
-            "level": {
+            "分类": "namco",
+            "曲名": "われら無敵のドコン団",
+            "等级": {
                 "easy": 3,
                 "normal": 4,
                 "hard": 5,
                 "oni": 8
             },
-            "name_cn": "我们无敌的咚咔团"
+            "注释": "我们无敌的咚咔团"
         },
         {
-            "category": "Namco原创",
-            "name": "闇の魂",
-            "level": {
+            "分类": "namco",
+            "曲名": "闇の魂",
+            "等级": {
                 "easy": 4,
                 "normal": 7,
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": "暗之魂"
+            "注释": "暗之魂"
         },
         {
-            "category": "Namco原创",
-            "name": "軽いざわめき",
-            "level": {
+            "分类": "namco",
+            "曲名": "軽いざわめき",
+            "等级": {
                 "easy": 4,
                 "normal": 6,
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": ""
+            "注释": ""
         },
         {
-            "category": "Namco原创",
-            "name": "伝説の祭り",
-            "level": {
+            "分类": "namco",
+            "曲名": "伝説の祭り",
+            "等级": {
                 "easy": 3,
                 "normal": 4,
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": "传说的祭典"
+            "注释": "传说的祭典"
         },
         {
-            "category": "Namco原创",
-            "name": "スクロール・ミカ",
-            "level": {
+            "分类": "namco",
+            "曲名": "スクロール・ミカ",
+            "等级": {
                 "easy": 4,
                 "normal": 6,
                 "hard": 7,
                 "oni": 7
             },
-            "name_cn": "Scroll Mika"
+            "注释": "Scroll Mika"
         },
         {
-            "category": "Namco原创",
-            "name": "ゴーゴー・キッチン",
-            "level": {
+            "分类": "namco",
+            "曲名": "ゴーゴー・キッチン",
+            "等级": {
                 "easy": 5,
                 "normal": 5,
                 "hard": 7,
                 "oni": 7
             },
-            "name_cn": "Go Go Kitchen"
+            "注释": "Go Go Kitchen"
         },
         {
-            "category": "Namco原创",
-            "name": "メカデス。",
-            "level": {
+            "分类": "namco",
+            "曲名": "メカデス。",
+            "等级": {
                 "easy": 4,
                 "normal": 7,
                 "hard": 7,
                 "oni": 7
             },
-            "name_cn": "I'm Mecha"
+            "注释": "I'm Mecha"
         },
         {
-            "category": "Namco原创",
-            "name": "風雲！バチお先生",
-            "level": {
+            "分类": "namco",
+            "曲名": "風雲！バチお先生",
+            "等级": {
                 "easy": 3,
                 "normal": 5,
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": "风云鼓棒先生"
+            "注释": "风云鼓棒先生"
         },
         {
-            "category": "Namco原创",
-            "name": "風雲！バチお先生 - LONG VERSION -",
-            "level": {
+            "分类": "namco",
+            "曲名": "風雲！バチお先生 - LONG VERSION -",
+            "等级": {
                 "easy": 4,
                 "normal": 5,
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": "风云鼓棒先生 完整版"
+            "注释": "风云鼓棒先生 完整版"
         },
         {
-            "category": "Namco原创",
-            "name": "拝啓、学校にて・・・",
-            "level": {
+            "分类": "namco",
+            "曲名": "拝啓、学校にて・・・",
+            "等级": {
                 "easy": 2,
                 "normal": 3,
                 "hard": 4,
                 "oni": 7
             },
-            "name_cn": "拜启、于学校（AC14/Wii3）"
+            "注释": "拜启、于学校（AC14/Wii3）"
         },
         {
-            "category": "Namco原创",
-            "name": "拝啓、学校にて・・・ - LONG VERSION -",
-            "level": {
+            "分类": "namco",
+            "曲名": "拝啓、学校にて・・・ - LONG VERSION -",
+            "等级": {
                 "easy": 3,
                 "normal": 5,
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "拜启、于学校 完整版（AC14/Wii3）"
+            "注释": "拜启、于学校 完整版（AC14/Wii3）"
         },
         {
-            "category": "Namco原创",
-            "name": "エンジェル ドリーム",
-            "level": {
+            "分类": "namco",
+            "曲名": "エンジェル ドリーム",
+            "等级": {
                 "easy": 3,
                 "normal": 6,
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": "天使之梦"
+            "注释": "天使之梦"
         },
         {
-            "category": "Namco原创",
-            "name": "エンジェル ドリーム（裏）",
-            "level": {
+            "分类": "namco",
+            "曲名": "エンジェル ドリーム（裏）",
+            "等级": {
                 "easy": "",
                 "normal": "",
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": "天使之梦（里）"
+            "注释": "天使之梦（里）"
         },
         {
-            "category": "Namco原创",
-            "name": "Rotter Tarmination",
-            "level": {
+            "分类": "namco",
+            "曲名": "Rotter Tarmination",
+            "等级": {
                 "easy": 4,
                 "normal": 6,
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "注释": ""
         },
         {
-            "category": "Namco原创",
-            "name": "Rotter Tarmination（裏）",
-            "level": {
+            "分类": "namco",
+            "曲名": "Rotter Tarmination（裏）",
+            "等级": {
                 "easy": "",
                 "normal": "",
                 "hard": "",
                 "oni": 10
             },
-            "name_cn": ""
+            "注释": ""
         },
         {
-            "category": "Namco原创",
-            "name": "夜桜謝肉祭",
-            "level": {
+            "分类": "namco",
+            "曲名": "夜桜謝肉祭",
+            "等级": {
                 "easy": 4,
                 "normal": 6,
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": "夜樱感谢祭"
+            "注释": "夜樱感谢祭"
         },
         {
-            "category": "Namco原创",
-            "name": "夜桜謝肉祭（裏）",
-            "level": {
+            "分类": "namco",
+            "曲名": "夜桜謝肉祭（裏）",
+            "等级": {
                 "easy": "",
                 "normal": "",
                 "hard": "",
                 "oni": 10
             },
-            "name_cn": "夜樱感谢祭（里）"
+            "注释": "夜樱感谢祭（里）"
         },
         {
-            "category": "Namco原创",
-            "name": "DON'T CUT",
-            "level": {
+            "分类": "namco",
+            "曲名": "DON'T CUT",
+            "等级": {
                 "easy": 4,
                 "normal": 7,
                 "hard": 8,
                 "oni": 8
             },
-            "name_cn": ""
+            "注释": ""
         },
         {
-            "category": "Namco原创",
-            "name": "DON'T CUT（裏）",
-            "level": {
+            "分类": "namco",
+            "曲名": "DON'T CUT（裏）",
+            "等级": {
                 "easy": "",
                 "normal": "",
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": ""
+            "注释": ""
         },
         {
-            "category": "Namco原创",
-            "name": "らんぶる乱舞",
-            "level": {
+            "分类": "namco",
+            "曲名": "らんぶる乱舞",
+            "等级": {
                 "easy": 4,
                 "normal": 7,
                 "hard": 8,
                 "oni": 8
             },
-            "name_cn": "Rumble乱舞"
+            "注释": "Rumble乱舞"
         },
         {
-            "category": "Namco原创",
-            "name": "らんぶる乱舞（裏）",
-            "level": {
+            "分类": "namco",
+            "曲名": "らんぶる乱舞（裏）",
+            "等级": {
                 "easy": "",
                 "normal": "",
                 "hard": "",
                 "oni": 8
             },
-            "name_cn": "Rumble乱舞（里）"
+            "注释": "Rumble乱舞（里）"
         },
         {
-            "category": "Namco原创",
-            "name": "さいたま2000",
-            "level": {
+            "分类": "namco",
+            "曲名": "さいたま2000",
+            "等级": {
                 "easy": 5,
                 "normal": 7,
                 "hard": 7,
                 "oni": 7
             },
-            "name_cn": "埼玉2000"
+            "注释": "埼玉2000"
         },
         {
-            "category": "Namco原创",
-            "name": "はやさいたま2000",
-            "level": {
+            "分类": "namco",
+            "曲名": "はやさいたま2000",
+            "等级": {
                 "easy": 5,
                 "normal": 7,
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": "速埼玉2000"
+            "注释": "速埼玉2000"
         },
         {
-            "category": "Namco原创",
-            "name": "ケチャドン2000",
-            "level": {
+            "分类": "namco",
+            "曲名": "ケチャドン2000",
+            "等级": {
                 "easy": 5,
                 "normal": 6,
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": "法会2000"
+            "注释": "法会2000"
         },
         {
-            "category": "Namco原创",
-            "name": "恋文2000",
-            "level": {
+            "分类": "namco",
+            "曲名": "恋文2000",
+            "等级": {
                 "easy": 5,
                 "normal": 7,
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": "情书2000"
+            "注释": "情书2000"
         },
         {
-            "category": "Namco原创",
-            "name": "よくでる2000",
-            "level": {
+            "分类": "namco",
+            "曲名": "よくでる2000",
+            "等级": {
                 "easy": 5,
                 "normal": 6,
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": "欲出2000"
+            "注释": "欲出2000"
         },
         {
-            "category": "Namco原创",
-            "name": "タベルナ2000",
-            "level": {
+            "分类": "namco",
+            "曲名": "タベルナ2000",
+            "等级": {
                 "easy": 5,
                 "normal": 7,
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": "禁食2000"
+            "注释": "禁食2000"
         },
         {
-            "category": "Namco原创",
-            "name": "十露盤2000",
-            "level": {
+            "分类": "namco",
+            "曲名": "十露盤2000",
+            "等级": {
                 "easy": 4,
                 "normal": 6,
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": "珠算2000"
+            "注释": "珠算2000"
         },
         {
-            "category": "Namco原创",
-            "name": "きたさいたま2000",
-            "level": {
+            "分类": "namco",
+            "曲名": "きたさいたま2000",
+            "等级": {
                 "easy": 5,
                 "normal": 7,
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": "北埼玉2000"
+            "注释": "北埼玉2000"
         },
         {
-            "category": "Namco原创",
-            "name": "きたさいたま200",
-            "level": {
+            "分类": "namco",
+            "曲名": "きたさいたま200",
+            "等级": {
                 "easy": 5,
                 "normal": 7,
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": "北埼玉200"
+            "注释": "北埼玉200"
         },
         {
-            "category": "Namco原创",
-            "name": "てんぢく2000",
-            "level": {
+            "分类": "namco",
+            "曲名": "てんぢく2000",
+            "等级": {
                 "easy": 4,
                 "normal": 7,
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": "天竺2000"
+            "注释": "天竺2000"
         },
         {
-            "category": "Namco原创",
-            "name": "EkiBEN2000",
-            "level": {
+            "分类": "namco",
+            "曲名": "EkiBEN2000",
+            "等级": {
                 "easy": 5,
                 "normal": 7,
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": "盒饭2000"
+            "注释": "盒饭2000"
         },
         {
-            "category": "Namco原创",
-            "name": "X-DAY2000",
-            "level": {
+            "分类": "namco",
+            "曲名": "X-DAY2000",
+            "等级": {
                 "easy": 5,
                 "normal": 7,
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": "X-Day2三个零"
+            "注释": "X-Day2三个零"
         },
         {
-            "category": "Namco原创",
-            "name": "はたラク2000",
-            "level": {
+            "分类": "namco",
+            "曲名": "はたラク2000",
+            "等级": {
                 "easy": 5,
                 "normal": 7,
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": "打工2000"
+            "注释": "打工2000"
         },
         {
-            "category": "Namco原创",
-            "name": "〆ドレー2000",
-            "level": {
+            "分类": "namco",
+            "曲名": "〆ドレー2000",
+            "等级": {
                 "easy": 5,
                 "normal": 7,
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": "组曲2000"
+            "注释": "组曲2000"
         },
         {
-            "category": "古典音乐",
-            "name": "練習曲Op.10-4",
-            "level": {
+            "分类": "classic",
+            "曲名": "練習曲Op.10-4",
+            "等级": {
                 "easy": 3,
                 "normal": 4,
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": ""
+            "注释": ""
         },
         {
-            "category": "古典音乐",
-            "name": "練習曲Op.10-4 （裏）",
-            "level": {
+            "分类": "classic",
+            "曲名": "練習曲Op.10-4 （裏）",
+            "等级": {
                 "easy": "",
                 "normal": "",
                 "hard": "",
                 "oni": 10
             },
-            "name_cn": ""
+            "注释": ""
         },
         {
-            "category": "古典音乐",
-            "name": "クープランの墓",
-            "level": {
+            "分类": "classic",
+            "曲名": "クープランの墓",
+            "等级": {
                 "easy": 4,
                 "normal": 7,
                 "hard": 8,
                 "oni": 8
             },
-            "name_cn": "库普兰之墓"
+            "注释": "库普兰之墓"
         },
         {
-            "category": "古典音乐",
-            "name": "ラデツキー行進曲",
-            "level": {
+            "分类": "classic",
+            "曲名": "ラデツキー行進曲",
+            "等级": {
                 "easy": 5,
                 "normal": 6,
                 "hard": 7,
                 "oni": 7
             },
-            "name_cn": "拉德茨基进行曲"
+            "注释": "拉德茨基进行曲"
         },
         {
-            "category": "古典音乐",
-            "name": "「ルスランとリュドミラ」序曲",
-            "level": {
+            "分类": "classic",
+            "曲名": "「ルスランとリュドミラ」序曲",
+            "等级": {
                 "easy": 3,
                 "normal": 5,
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": "卢斯兰与鲁蜜拉 序曲"
+            "注释": "卢斯兰与鲁蜜拉 序曲"
         },
         {
-            "category": "古典音乐",
-            "name": "幻想即興曲",
-            "level": {
+            "分类": "classic",
+            "曲名": "幻想即興曲",
+            "等级": {
                 "easy": 5,
                 "normal": 7,
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": "幻想即兴曲"
+            "注释": "幻想即兴曲"
         },
         {
-            "category": "古典音乐",
-            "name": "天国と地獄　序曲",
-            "level": {
+            "分类": "classic",
+            "曲名": "天国と地獄　序曲",
+            "等级": {
                 "easy": 4,
                 "normal": 4,
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": "天国与地狱 序曲"
+            "注释": "天国与地狱 序曲"
         },
         {
-            "category": "古典音乐",
-            "name": "カレ・カノ・カノン",
-            "level": {
+            "分类": "classic",
+            "曲名": "カレ・カノ・カノン",
+            "等级": {
                 "easy": 3,
                 "normal": 4,
                 "hard": 5,
                 "oni": 8
             },
-            "name_cn": "亲亲卡农"
+            "注释": "亲亲卡农"
         },
         {
-            "category": "古典音乐",
-            "name": "カルメン　組曲一番終曲",
-            "level": {
+            "分类": "classic",
+            "曲名": "カルメン　組曲一番終曲",
+            "等级": {
                 "easy": 3,
                 "normal": 5,
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "卡门 前奏曲"
+            "注释": "卡门 前奏曲"
         },
         {
-            "category": "综艺曲目",
-            "name": "パパマママック",
-            "level": {
+            "分类": "variety",
+            "曲名": "パパマママック",
+            "等级": {
                 "easy": 4,
                 "normal": 4,
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "麦当劳联动曲(AC14)"
+            "注释": "麦当劳联动曲(AC14)"
         },
         {
-            "category": "综艺曲目",
-            "name": "龍馬伝",
-            "level": {
+            "分类": "variety",
+            "曲名": "龍馬伝",
+            "等级": {
                 "easy": 3,
                 "normal": 4,
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": "(AC14)"
+            "注释": "(AC14)"
         },
         {
-            "category": "综艺曲目",
-            "name": "お菓子刑事の歌",
-            "level": {
+            "分类": "variety",
+            "曲名": "お菓子刑事の歌",
+            "等级": {
                 "easy": 4,
                 "normal": 5,
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": "点心刑警之歌(AC14)"
+            "注释": "点心刑警之歌(AC14)"
         },
         {
-            "category": "综艺曲目",
-            "name": "RHYTHM AND POLICE",
-            "level": {
+            "分类": "variety",
+            "曲名": "RHYTHM AND POLICE",
+            "等级": {
                 "easy": 3,
                 "normal": 5,
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": "(PSPDX)"
+            "注释": "(PSPDX)"
         },
         {
-            "category": "综艺曲目",
-            "name": "スリラー",
-            "level": {
+            "分类": "variety",
+            "曲名": "スリラー",
+            "等级": {
                 "easy": 3,
                 "normal": 4,
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "Thriller(AC14)"
+            "注释": "Thriller(AC14)"
         },
         {
-            "category": "综艺曲目",
-            "name": "ブラック★ロックシューター",
-            "level": {
+            "分类": "variety",
+            "曲名": "ブラック★ロックシューター",
+            "等级": {
                 "easy": 4,
                 "normal": 4,
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "Black★RockShooter(AC15.3.0)"
+            "注释": "Black★RockShooter(AC15.3.0)"
         },
         {
-            "category": "综艺曲目",
-            "name": "まねきねこダックの歌",
-            "level": {
+            "分类": "variety",
+            "曲名": "まねきねこダックの歌",
+            "等级": {
                 "easy": 1,
                 "normal": 3,
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "(AC14)"
+            "注释": "(AC14)"
         },
         {
-            "category": "综艺曲目",
-            "name": "Onaraはずかしくないよ",
-            "level": {
+            "分类": "variety",
+            "曲名": "Onaraはずかしくないよ",
+            "等级": {
                 "easy": 2,
                 "normal": 4,
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "(AC14)"
+            "注释": "(AC14)"
         },
         {
-            "category": "综艺曲目",
-            "name": "ピラメキたいそう 太鼓の達人バージョン",
-            "level": {
+            "分类": "variety",
+            "曲名": "ピラメキたいそう 太鼓の達人バージョン",
+            "等级": {
                 "easy": 3,
                 "normal": 4,
                 "hard": 5,
                 "oni": 8
             },
-            "name_cn": "(Wii3)"
+            "注释": "(Wii3)"
         },
         {
-            "category": "综艺曲目",
-            "name": "やわらか戦車",
-            "level": {
+            "分类": "variety",
+            "曲名": "やわらか戦車",
+            "等级": {
                 "easy": 3,
                 "normal": 5,
                 "hard": 6,
                 "oni": 6
             },
-            "name_cn": "软软战车"
+            "注释": "软软战车"
         },
         {
-            "category": "综艺曲目",
-            "name": "やわらか戦車（裏）",
-            "level": {
+            "分类": "variety",
+            "曲名": "やわらか戦車（裏）",
+            "等级": {
                 "easy": "",
                 "normal": "",
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": "软软战车（里）"
+            "注释": "软软战车（里）"
         },
         {
-            "category": "综艺曲目",
-            "name": "ウッーウッーウマウマ",
-            "level": {
+            "分类": "variety",
+            "曲名": "ウッーウッーウマウマ",
+            "等级": {
                 "easy": 3,
                 "normal": 5,
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "焦糖舞(AC15.5.4)"
+            "注释": "焦糖舞(AC15.5.4)"
         },
         {
-            "category": "综艺曲目",
-            "name": "メルト",
-            "level": {
+            "分类": "variety",
+            "曲名": "メルト",
+            "等级": {
                 "easy": 3,
                 "normal": 3,
                 "hard": 5,
                 "oni": 8
             },
-            "name_cn": "Melt(AC15.3.0)"
+            "注释": "Melt(AC15.3.0)"
         },
         {
-            "category": "综艺曲目",
-            "name": "ワールドイズマイン",
-            "level": {
+            "分类": "variety",
+            "曲名": "ワールドイズマイン",
+            "等级": {
                 "easy": 4,
                 "normal": 5,
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "World is Mine（世界第一公主殿下）(AC15.3.0)"
+            "注释": "World is Mine（世界第一公主殿下）(AC15.3.0)"
         },
         {
-            "category": "综艺曲目",
-            "name": "エレクトリカルパレードのテーマ",
-            "level": {
+            "分类": "variety",
+            "曲名": "エレクトリカルパレードのテーマ",
+            "等级": {
                 "easy": 2,
                 "normal": 3,
                 "hard": 3,
                 "oni": 8
             },
-            "name_cn": "BAROQUE HOEDOWN(AC14)"
+            "注释": "BAROQUE HOEDOWN(AC14)"
         },
         {
-            "category": "综艺曲目",
-            "name": "ミッキーマウス・マーチ",
-            "level": {
+            "分类": "variety",
+            "曲名": "ミッキーマウス・マーチ",
+            "等级": {
                 "easy": 4,
                 "normal": 5,
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "米老鼠进行曲(WiiU 1)"
+            "注释": "米老鼠进行曲(WiiU 1)"
         },
         {
-            "category": "儿歌",
-            "name": "もりのくまさん",
-            "level": {
+            "分类": "child",
+            "曲名": "もりのくまさん",
+            "等级": {
                 "easy": 1,
                 "normal": 1,
                 "hard": 1,
                 "oni": 1
             },
-            "name_cn": "森林里的熊先生"
+            "注释": "森林里的熊先生"
         },
         {
-            "category": "儿歌",
-            "name": "もりのくまさん（裏）",
-            "level": {
+            "分类": "child",
+            "曲名": "もりのくまさん（裏）",
+            "等级": {
                 "easy": "",
                 "normal": "",
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": "里小熊"
+            "注释": "里小熊"
         },
         {
-            "category": "儿歌",
-            "name": "いぬのおまわりさん",
-            "level": {
+            "分类": "child",
+            "曲名": "いぬのおまわりさん",
+            "等级": {
                 "easy": 1,
                 "normal": 2,
                 "hard": 4,
                 "oni": 7
             },
-            "name_cn": "小狗警察先生(AC15.2.0)"
+            "注释": "小狗警察先生(AC15.2.0)"
         },
         {
-            "category": "儿歌",
-            "name": "おもちゃのチャチャチャ",
-            "level": {
+            "分类": "child",
+            "曲名": "おもちゃのチャチャチャ",
+            "等级": {
                 "easy": 4,
                 "normal": 3,
                 "hard": 4,
                 "oni": 6
             },
-            "name_cn": "(AC15.8.3)"
+            "注释": "(AC15.8.3)"
         },
         {
-            "category": "动画歌曲",
-            "name": "アンパンマンのマーチ",
-            "level": {
+            "分类": "anime",
+            "曲名": "アンパンマンのマーチ",
+            "等级": {
                 "easy": 2,
                 "normal": 1,
                 "hard": 5,
                 "oni": 1
             },
-            "name_cn": "面包超人(NS1)"
+            "注释": "面包超人(NS1)"
         },
         {
-            "category": "动画歌曲",
-            "name": "勇気りんりん",
-            "level": {
+            "分类": "anime",
+            "曲名": "勇気りんりん",
+            "等级": {
                 "easy": 2,
                 "normal": 3,
                 "hard": 1,
                 "oni": 6
             },
-            "name_cn": "面包超人(AC15.4.6)"
+            "注释": "面包超人(AC15.4.6)"
         },
         {
-            "category": "动画歌曲",
-            "name": "アンパンマンたいそう",
-            "level": {
+            "分类": "anime",
+            "曲名": "アンパンマンたいそう",
+            "等级": {
                 "easy": 1,
                 "normal": 2,
                 "hard": 2,
                 "oni": 2
             },
-            "name_cn": "面包超人(AC15.2.0)"
+            "注释": "面包超人(AC15.2.0)"
         },
         {
-            "category": "动画歌曲",
-            "name": "夢をかなえてドラえもん",
-            "level": {
+            "分类": "anime",
+            "曲名": "夢をかなえてドラえもん",
+            "等级": {
                 "easy": 1,
                 "normal": 1,
                 "hard": 2,
                 "oni": 4
             },
-            "name_cn": "哆啦A梦(PS4 1)"
+            "注释": "哆啦A梦(PS4 1)"
         },
         {
-            "category": "动画歌曲",
-            "name": "踊れ・どれ・ドラ　ドラえもん音頭",
-            "level": {
+            "分类": "anime",
+            "曲名": "踊れ・どれ・ドラ　ドラえもん音頭",
+            "等级": {
                 "easy": 2,
                 "normal": 1,
                 "hard": 3,
                 "oni": 4
             },
-            "name_cn": "哆啦A梦(NS1)"
+            "注释": "哆啦A梦(NS1)"
         },
         {
-            "category": "动画歌曲",
-            "name": "Alright! ハートキャッチプリキュア！",
-            "level": {
+            "分类": "anime",
+            "曲名": "Alright! ハートキャッチプリキュア！",
+            "等级": {
                 "easy": 4,
                 "normal": 4,
                 "hard": 4,
                 "oni": 7
             },
-            "name_cn": "光之美少女(AC14/Wii3)"
+            "注释": "光之美少女(AC14/Wii3)"
         },
         {
-            "category": "动画歌曲",
-            "name": "毎日かあさん",
-            "level": {
+            "分类": "anime",
+            "曲名": "毎日かあさん",
+            "等级": {
                 "easy": 2,
                 "normal": 3,
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": "每日妈妈(AC15.4.6)"
+            "注释": "每日妈妈(AC15.4.6)"
         },
         {
-            "category": "动画歌曲",
-            "name": "サイコー・エブリデイ！",
-            "level": {
+            "分类": "anime",
+            "曲名": "サイコー・エブリデイ！",
+            "等级": {
                 "easy": 2,
                 "normal": 4,
                 "hard": 5,
                 "oni": 5
             },
-            "name_cn": "宝可梦钻石珍珠(AC14/Wii3)"
+            "注释": "宝可梦钻石珍珠(AC14/Wii3)"
         },
         {
-            "category": "动画歌曲",
-            "name": "勝って泣こうゼッ！",
-            "level": {
+            "分类": "anime",
+            "曲名": "勝って泣こうゼッ！",
+            "等级": {
                 "easy": 3,
                 "normal": 4,
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "闪电十一人(AC14)"
+            "注释": "闪电十一人(AC14)"
         },
         {
-            "category": "动画歌曲",
-            "name": "天装戦隊ゴセイジャー",
-            "level": {
+            "分类": "anime",
+            "曲名": "天装戦隊ゴセイジャー",
+            "等级": {
                 "easy": 2,
                 "normal": 4,
                 "hard": 6,
                 "oni": 6
             },
-            "name_cn": "天装战队护星者(AC14/Wii3)"
+            "注释": "天装战队护星者(AC14/Wii3)"
         },
         {
-            "category": "动画歌曲",
-            "name": "ハピハピ",
-            "level": {
+            "分类": "anime",
+            "曲名": "ハピハピ",
+            "等级": {
                 "easy": 3,
                 "normal": 3,
                 "hard": 4,
                 "oni": 6
             },
-            "name_cn": "蜡笔小新(AC15.5.4)"
+            "注释": "蜡笔小新(AC15.5.4)"
         },
         {
-            "category": "动画歌曲",
-            "name": "透明だった世界",
-            "level": {
+            "分类": "anime",
+            "曲名": "透明だった世界",
+            "等级": {
                 "easy": 3,
                 "normal": 4,
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": "火影疾风传(AC14/Wii3)"
+            "注释": "火影疾风传(AC14/Wii3)"
         },
         {
-            "category": "动画歌曲",
-            "name": "ブルーバード",
-            "level": {
+            "分类": "anime",
+            "曲名": "ブルーバード",
+            "等级": {
                 "easy": 3,
                 "normal": 4,
                 "hard": 6,
                 "oni": 6
             },
-            "name_cn": "火影疾风传(AC15.1.0)"
+            "注释": "火影疾风传(AC15.1.0)"
         },
         {
-            "category": "动画歌曲",
-            "name": "レイン",
-            "level": {
+            "分类": "anime",
+            "曲名": "レイン",
+            "等级": {
                 "easy": 3,
                 "normal": 4,
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "钢之炼金术师(AC15.2.0)"
+            "注释": "钢之炼金术师(AC15.2.0)"
         },
         {
-            "category": "动画歌曲",
-            "name": "GO-GO たまごっち！",
-            "level": {
+            "分类": "anime",
+            "曲名": "GO-GO たまごっち！",
+            "等级": {
                 "easy": 1,
                 "normal": 2,
                 "hard": 4,
                 "oni": 7
             },
-            "name_cn": "拓麻歌子(AC15.2.0/WiiU 2/3DS2)"
+            "注释": "拓麻歌子(AC15.2.0/WiiU 2/3DS2)"
         },
         {
-            "category": "动画歌曲",
-            "name": "LISTEN TO THE STEREO!!",
-            "level": {
+            "分类": "anime",
+            "曲名": "LISTEN TO THE STEREO!!",
+            "等级": {
                 "easy": 3,
                 "normal": 5,
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "家庭教师Reborn(AC15.4.6/WiiU 2)"
+            "注释": "家庭教师Reborn(AC15.4.6/WiiU 2)"
         },
         {
-            "category": "动画歌曲",
-            "name": "バクチ・ダンサー",
-            "level": {
+            "分类": "anime",
+            "曲名": "バクチ・ダンサー",
+            "等级": {
                 "easy": 4,
                 "normal": 4,
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "剧场版银魂(AC15.1.0/3DS2)"
+            "注释": "剧场版银魂(AC15.1.0/3DS2)"
         },
         {
-            "category": "动画歌曲",
-            "name": "W-B-X ～W-Boiled Extreme～",
-            "level": {
+            "分类": "anime",
+            "曲名": "W-B-X ～W-Boiled Extreme～",
+            "等级": {
                 "easy": 3,
                 "normal": 3,
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": "假面骑士W(AC14/PSPDX/DS3)"
+            "注释": "假面骑士W(AC14/PSPDX/DS3)"
         },
         {
-            "category": "动画歌曲",
-            "name": "ヤッターマンの歌",
-            "level": {
+            "分类": "anime",
+            "曲名": "ヤッターマンの歌",
+            "等级": {
                 "easy": 4,
                 "normal": 5,
                 "hard": 6,
                 "oni": 6
             },
-            "name_cn": "小双侠(AC14/Wii1)"
+            "注释": "小双侠(AC14/Wii1)"
         },
         {
-            "category": "动画歌曲",
-            "name": "おしりかじり虫",
-            "level": {
+            "分类": "anime",
+            "曲名": "おしりかじり虫",
+            "等级": {
                 "easy": 1,
                 "normal": 1,
                 "hard": 3,
                 "oni": 3
             },
-            "name_cn": "(AC14/PSPDX/DS2)"
+            "注释": "(AC14/PSPDX/DS2)"
         },
         {
-            "category": "动画歌曲",
-            "name": "勇気100%",
-            "level": {
+            "分类": "anime",
+            "曲名": "勇気100%",
+            "等级": {
                 "easy": 3,
                 "normal": 2,
                 "hard": 3,
                 "oni": 6
             },
-            "name_cn": "忍者乱太郎(AC15.2.0)"
+            "注释": "忍者乱太郎(AC15.2.0)"
         },
         {
-            "category": "动画歌曲",
-            "name": "名探偵コナン メイン・テーマ",
-            "level": {
+            "分类": "anime",
+            "曲名": "名探偵コナン メイン・テーマ",
+            "等级": {
                 "easy": 3,
                 "normal": 2,
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": "柯南"
+            "注释": "柯南"
         },
         {
-            "category": "动画歌曲",
-            "name": "ケロッ！とマーチ",
-            "level": {
+            "分类": "anime",
+            "曲名": "ケロッ！とマーチ",
+            "等级": {
                 "easy": 2,
                 "normal": 3,
                 "hard": 7,
                 "oni": 6
             },
-            "name_cn": "Keroro军曹(AC14)"
+            "注释": "Keroro军曹(AC14)"
         },
         {
-            "category": "动画歌曲",
-            "name": "Dragon Soul",
-            "level": {
+            "分类": "anime",
+            "曲名": "Dragon Soul",
+            "等级": {
                 "easy": 2,
                 "normal": 1,
                 "hard": 4,
                 "oni": 6
             },
-            "name_cn": "龙珠(NS1)"
+            "注释": "龙珠(NS1)"
         },
         {
-            "category": "动画歌曲",
-            "name": "CHA-LA HEAD-CHA-LA",
-            "level": {
+            "分类": "anime",
+            "曲名": "CHA-LA HEAD-CHA-LA",
+            "等级": {
                 "easy": 3,
                 "normal": 4,
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": "龙珠(NS1)"
+            "注释": "龙珠(NS1)"
         },
         {
-            "category": "动画歌曲",
-            "name": "ドラえもんのうた",
-            "level": {
+            "分类": "anime",
+            "曲名": "ドラえもんのうた",
+            "等级": {
                 "easy": 1,
                 "normal": 2,
                 "hard": 3,
                 "oni": 3
             },
-            "name_cn": "哆啦A梦"
+            "注释": "哆啦A梦"
         },
         {
-            "category": "动画歌曲",
-            "name": "ゲゲゲの鬼太郎",
-            "level": {
+            "分类": "anime",
+            "曲名": "ゲゲゲの鬼太郎",
+            "等级": {
                 "easy": 2,
                 "normal": 3,
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": "(AC14/DS2)"
+            "注释": "(AC14/DS2)"
         },
         {
-            "category": "动画歌曲",
-            "name": "おどるポンポコリン",
-            "level": {
+            "分类": "anime",
+            "曲名": "おどるポンポコリン",
+            "等级": {
                 "easy": 1,
                 "normal": 2,
                 "hard": 3,
                 "oni": 4
             },
-            "name_cn": "樱桃小丸子"
+            "注释": "樱桃小丸子"
         },
         {
-            "category": "动画歌曲",
-            "name": "宇宙戦艦ヤマト",
-            "level": {
+            "分类": "anime",
+            "曲名": "宇宙戦艦ヤマト",
+            "等级": {
                 "easy": 3,
                 "normal": 4,
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": "(AC14)"
+            "注释": "(AC14)"
         },
         {
-            "category": "动画歌曲",
-            "name": "タッチ",
-            "level": {
+            "分类": "anime",
+            "曲名": "タッチ",
+            "等级": {
                 "easy": 4,
                 "normal": 4,
                 "hard": 6,
                 "oni": 5
             },
-            "name_cn": "(AC15.5.4)"
+            "注释": "(AC15.5.4)"
         },
         {
-            "category": "动画歌曲",
-            "name": "残酷な天使のテーゼ",
-            "level": {
+            "分类": "anime",
+            "曲名": "残酷な天使のテーゼ",
+            "等级": {
                 "easy": 4,
                 "normal": 4,
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": "残酷天使纲领"
+            "注释": "残酷天使纲领"
         },
         {
-            "category": "动画歌曲",
-            "name": "残酷な天使のテーゼ（裏）",
-            "level": {
+            "分类": "anime",
+            "曲名": "残酷な天使のテーゼ（裏）",
+            "等级": {
                 "easy": "",
                 "normal": "",
                 "hard": "",
                 "oni": 8
             },
-            "name_cn": "勇敢的少年快起床找鸡鸡"
+            "注释": "勇敢的少年快起床找鸡鸡"
         },
         {
-            "category": "动画歌曲",
-            "name": "創聖のアクエリオン",
-            "level": {
+            "分类": "anime",
+            "曲名": "創聖のアクエリオン",
+            "等级": {
                 "easy": 3,
                 "normal": 4,
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "创圣之阿姨洗铁路"
+            "注释": "创圣之阿姨洗铁路"
         },
         {
-            "category": "动画歌曲",
-            "name": "Tank!",
-            "level": {
+            "分类": "anime",
+            "曲名": "Tank!",
+            "等级": {
                 "easy": 5,
                 "normal": 5,
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": "(3DS2)"
+            "注释": "(3DS2)"
         },
         {
-            "category": "动画歌曲",
-            "name": "Tank!（裏）",
-            "level": {
+            "分类": "anime",
+            "曲名": "Tank!（裏）",
+            "等级": {
                 "easy": "",
                 "normal": "",
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": "(3DS2)"
+            "注释": "(3DS2)"
         },
         {
-            "category": "动画歌曲",
-            "name": "止マレ！",
-            "level": {
+            "分类": "anime",
+            "曲名": "止マレ！",
+            "等级": {
                 "easy": 3,
                 "normal": 4,
                 "hard": 5,
                 "oni": 8
             },
-            "name_cn": "凉宫春日的忧郁(PSPDX)"
+            "注释": "凉宫春日的忧郁(PSPDX)"
         },
         {
-            "category": "动画歌曲",
-            "name": "ハレ晴レユカイ",
-            "level": {
+            "分类": "anime",
+            "曲名": "ハレ晴レユカイ",
+            "等级": {
                 "easy": 4,
                 "normal": 5,
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "凉宫春日的忧郁(PS4 1)"
+            "注释": "凉宫春日的忧郁(PS4 1)"
         },
         {
-            "category": "动画歌曲",
-            "name": "もってけ！セーラーふく",
-            "level": {
+            "分类": "anime",
+            "曲名": "もってけ！セーラーふく",
+            "等级": {
                 "easy": 3,
                 "normal": 6,
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": "幸运星(AC15.3.7)"
+            "注释": "幸运星(AC15.3.7)"
         },
         {
-            "category": "动画歌曲",
-            "name": "君が主役さっ！",
-            "level": {
+            "分类": "anime",
+            "曲名": "君が主役さっ！",
+            "等级": {
                 "easy": 3,
                 "normal": 4,
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": "恋爱班长(AC14/Wii3)"
+            "注释": "恋爱班长(AC14/Wii3)"
         },
         {
-            "category": "动画歌曲",
-            "name": "My Soul, Your Beats!",
-            "level": {
+            "分类": "anime",
+            "曲名": "My Soul, Your Beats!",
+            "等级": {
                 "easy": 3,
                 "normal": 4,
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": "立华奏天下第一(PSV1)"
+            "注释": "立华奏天下第一(PSV1)"
         },
         {
-            "category": "J-POP",
-            "name": "Ring a Ding Dong",
-            "level": {
+            "分类": "jpop",
+            "曲名": "Ring a Ding Dong",
+            "等级": {
                 "easy": 3,
                 "normal": 4,
                 "hard": 4,
                 "oni": 7
             },
-            "name_cn": "(AC15.4.6)"
+            "注释": "(AC15.4.6)"
         },
         {
-            "category": "J-POP",
-            "name": "Butterfly",
-            "level": {
+            "分类": "jpop",
+            "曲名": "Butterfly",
+            "等级": {
                 "easy": 2,
                 "normal": 3,
                 "hard": 4,
                 "oni": 6
             },
-            "name_cn": "(AC15.4.6/WiiU2)"
+            "注释": "(AC15.4.6/WiiU2)"
         },
         {
-            "category": "J-POP",
-            "name": "LOVE RAIN ～恋の雨～",
-            "level": {
+            "分类": "jpop",
+            "曲名": "LOVE RAIN ～恋の雨～",
+            "等级": {
                 "easy": 2,
                 "normal": 4,
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "(AC14)"
+            "注释": "(AC14)"
         },
         {
-            "category": "J-POP",
-            "name": "ポニーテールとシュシュ",
-            "level": {
+            "分类": "jpop",
+            "曲名": "ポニーテールとシュシュ",
+            "等级": {
                 "easy": 3,
                 "normal": 5,
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": ""
+            "注释": ""
         },
         {
-            "category": "J-POP",
-            "name": "じょいふる",
-            "level": {
+            "分类": "jpop",
+            "曲名": "じょいふる",
+            "等级": {
                 "easy": 3,
                 "normal": 4,
                 "hard": 6,
                 "oni": 6
             },
-            "name_cn": ""
+            "注释": ""
         },
         {
-            "category": "J-POP",
-            "name": "気まぐれロマンティック",
-            "level": {
+            "分类": "jpop",
+            "曲名": "気まぐれロマンティック",
+            "等级": {
                 "easy": 3,
                 "normal": 4,
                 "hard": 3,
                 "oni": 6
             },
-            "name_cn": "(AC15.2.0)"
+            "注释": "(AC15.2.0)"
         },
         {
-            "category": "J-POP",
-            "name": "VICTORY",
-            "level": {
+            "分类": "jpop",
+            "曲名": "VICTORY",
+            "等级": {
                 "easy": 2,
                 "normal": 4,
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "(AC14/Wii3)"
+            "注释": "(AC14/Wii3)"
         },
         {
-            "category": "J-POP",
-            "name": "銀河鉄道999",
-            "level": {
+            "分类": "jpop",
+            "曲名": "銀河鉄道999",
+            "等级": {
                 "easy": 3,
                 "normal": 5,
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": "(AC15.3.7)"
+            "注释": "(AC15.3.7)"
         },
         {
-            "category": "J-POP",
-            "name": "キセキ",
-            "level": {
+            "分类": "jpop",
+            "曲名": "キセキ",
+            "等级": {
                 "easy": 3,
                 "normal": 2,
                 "hard": 3,
                 "oni": 2
             },
-            "name_cn": "牛也牛"
+            "注释": "牛也牛"
         },
         {
-            "category": "J-POP",
-            "name": "遥か",
-            "level": {
+            "分类": "jpop",
+            "曲名": "遥か",
+            "等级": {
                 "easy": 2,
                 "normal": 3,
                 "hard": 4,
                 "oni": 5
             },
-            "name_cn": "(AC14)"
+            "注释": "(AC14)"
         },
         {
-            "category": "J-POP",
-            "name": "虹",
-            "level": {
+            "分类": "jpop",
+            "曲名": "虹",
+            "等级": {
                 "easy": 3,
                 "normal": 1,
                 "hard": 2,
                 "oni": 6
             },
-            "name_cn": "(AC15.5.4)"
+            "注释": "(AC15.5.4)"
         },
         {
-            "category": "J-POP",
-            "name": "プルメリア～花唄～",
-            "level": {
+            "分类": "jpop",
+            "曲名": "プルメリア～花唄～",
+            "等级": {
                 "easy": 3,
                 "normal": 4,
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": "(AC14)"
+            "注释": "(AC14)"
         },
         {
-            "category": "J-POP",
-            "name": "嘘",
-            "level": {
+            "分类": "jpop",
+            "曲名": "嘘",
+            "等级": {
                 "easy": 3,
                 "normal": 5,
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": ""
+            "注释": ""
         },
         {
-            "category": "J-POP",
-            "name": "Love Forever",
-            "level": {
+            "分类": "jpop",
+            "曲名": "Love Forever",
+            "等级": {
                 "easy": 2,
                 "normal": 2,
                 "hard": 2,
                 "oni": 6
             },
-            "name_cn": "(AC15.1.0)"
+            "注释": "(AC15.1.0)"
         },
         {
-            "category": "J-POP",
-            "name": "ニホンノミカタ －ネバタカラキマシタ－",
-            "level": {
+            "分类": "jpop",
+            "曲名": "ニホンノミカタ －ネバタカラキマシタ－",
+            "等级": {
                 "easy": 3,
                 "normal": 4,
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": "(AC14)"
+            "注释": "(AC14)"
         },
         {
-            "category": "J-POP",
-            "name": "羞恥心",
-            "level": {
+            "分类": "jpop",
+            "曲名": "羞恥心",
+            "等级": {
                 "easy": 4,
                 "normal": 4,
                 "hard": 4,
                 "oni": 7
             },
-            "name_cn": "(AC14)"
+            "注释": "(AC14)"
         },
         {
-            "category": "J-POP",
-            "name": "ひまわり",
-            "level": {
+            "分类": "jpop",
+            "曲名": "ひまわり",
+            "等级": {
                 "easy": 3,
                 "normal": 4,
                 "hard": 5,
                 "oni": 5
             },
-            "name_cn": "(AC14)"
+            "注释": "(AC14)"
         },
         {
-            "category": "J-POP",
-            "name": "素直になれたら",
-            "level": {
+            "分类": "jpop",
+            "曲名": "素直になれたら",
+            "等级": {
                 "easy": 3,
                 "normal": 3,
                 "hard": 5,
                 "oni": 3
             },
-            "name_cn": "(AC14)"
+            "注释": "(AC14)"
         },
         {
-            "category": "J-POP",
-            "name": "LIFE",
-            "level": {
+            "分类": "jpop",
+            "曲名": "LIFE",
+            "等级": {
                 "easy": 3,
                 "normal": 5,
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "(AC14)"
+            "注释": "(AC14)"
         },
         {
-            "category": "J-POP",
-            "name": "イケナイ太陽",
-            "level": {
+            "分类": "jpop",
+            "曲名": "イケナイ太陽",
+            "等级": {
                 "easy": 4,
                 "normal": 4,
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": ""
+            "注释": ""
         },
         {
-            "category": "J-POP",
-            "name": "気分上々↑↑",
-            "level": {
+            "分类": "jpop",
+            "曲名": "気分上々↑↑",
+            "等级": {
                 "easy": 4,
                 "normal": 4,
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": "(AC15.8.3/WiiU2)"
+            "注释": "(AC15.8.3/WiiU2)"
         },
         {
-            "category": "J-POP",
-            "name": "夏祭り",
-            "level": {
+            "分类": "jpop",
+            "曲名": "夏祭り",
+            "等级": {
                 "easy": 3,
                 "normal": 2,
                 "hard": 6,
                 "oni": 6
             },
-            "name_cn": ""
+            "注释": ""
         },
         {
-            "category": "J-POP",
-            "name": "天体観測",
-            "level": {
+            "分类": "jpop",
+            "曲名": "天体観測",
+            "等级": {
                 "easy": 3,
                 "normal": 5,
                 "hard": 4,
                 "oni": 6
             },
-            "name_cn": ""
+            "注释": ""
         },
         {
-            "category": "J-POP",
-            "name": "リンダリンダ",
-            "level": {
+            "分类": "jpop",
+            "曲名": "リンダリンダ",
+            "等级": {
                 "easy": 4,
                 "normal": 6,
                 "hard": 5,
                 "oni": 5
             },
-            "name_cn": ""
+            "注释": ""
         },
         {
-            "category": "J-POP",
-            "name": "TRAIN-TRAIN",
-            "level": {
+            "分类": "jpop",
+            "曲名": "TRAIN-TRAIN",
+            "等级": {
                 "easy": 4,
                 "normal": 5,
                 "hard": 4,
                 "oni": 5
             },
-            "name_cn": "(NS1)"
+            "注释": "(NS1)"
         },
         {
-            "category": "J-POP",
-            "name": "にんげんっていいな",
-            "level": {
+            "分类": "jpop",
+            "曲名": "にんげんっていいな",
+            "等级": {
                 "easy": 3,
                 "normal": 4,
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": "(AC14)"
+            "注释": "(AC14)"
         },
         {
-            "category": "J-POP",
-            "name": "LOVE 2000",
-            "level": {
+            "分类": "jpop",
+            "曲名": "LOVE 2000",
+            "等级": {
                 "easy": 3,
                 "normal": 4,
                 "hard": 5,
                 "oni": 6
             },
-            "name_cn": "(AC14)"
+            "注释": "(AC14)"
         },
         {
-            "category": "J-POP",
-            "name": "風になりたい",
-            "level": {
+            "分类": "jpop",
+            "曲名": "風になりたい",
+            "等级": {
                 "easy": 3,
                 "normal": 4,
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": "(AC14)"
+            "注释": "(AC14)"
         },
         {
-            "category": "J-POP",
-            "name": "そばかす",
-            "level": {
+            "分类": "jpop",
+            "曲名": "そばかす",
+            "等级": {
                 "easy": 4,
                 "normal": 3,
                 "hard": 4,
                 "oni": 6
             },
-            "name_cn": "(AC15.5.4)"
+            "注释": "(AC15.5.4)"
         },
         {
-            "category": "J-POP",
-            "name": "ポリリズム",
-            "level": {
+            "分类": "jpop",
+            "曲名": "ポリリズム",
+            "等级": {
                 "easy": 4,
                 "normal": 6,
                 "hard": 5,
                 "oni": 8
             },
-            "name_cn": "(AC15.1.0/3DS1)"
+            "注释": "(AC15.1.0/3DS1)"
         },
         {
-            "category": "J-POP",
-            "name": "Punishment",
-            "level": {
+            "分类": "jpop",
+            "曲名": "Punishment",
+            "等级": {
                 "easy": 4,
                 "normal": 4,
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": "(AC15.6.0)"
+            "注释": "(AC15.6.0)"
         },
         {
-            "category": "J-POP",
-            "name": "前略、道の上より",
-            "level": {
+            "分类": "jpop",
+            "曲名": "前略、道の上より",
+            "等级": {
                 "easy": 3,
                 "normal": 4,
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": "(AC15.5.4/WiiU2)"
+            "注释": "(AC15.5.4/WiiU2)"
         },
         {
-            "category": "J-POP",
-            "name": "紅",
-            "level": {
+            "分类": "jpop",
+            "曲名": "紅",
+            "等级": {
                 "easy": 3,
                 "normal": 4,
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "注释": ""
         },
         {
-            "category": "J-POP",
-            "name": "ヒーロー",
-            "level": {
+            "分类": "jpop",
+            "曲名": "ヒーロー",
+            "等级": {
                 "easy": 3,
                 "normal": 4,
                 "hard": 4,
                 "oni": 7
             },
-            "name_cn": "(AC14)"
+            "注释": "(AC14)"
         },
         {
-            "category": "J-POP",
-            "name": "また君に恋してる",
-            "level": {
+            "分类": "jpop",
+            "曲名": "また君に恋してる",
+            "等级": {
                 "easy": 2,
                 "normal": 3,
                 "hard": 4,
                 "oni": 6
             },
-            "name_cn": "(AC14)"
+            "注释": "(AC14)"
         },
         {
-            "category": "J-POP",
-            "name": "LOVEずっきゅん",
-            "level": {
+            "分类": "jpop",
+            "曲名": "LOVEずっきゅん",
+            "等级": {
                 "easy": 4,
                 "normal": 4,
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "(AC14/PSPDX)"
+            "注释": "(AC14/PSPDX)"
         },
         {
-            "category": "游戏音乐",
-            "name": "モンスターハンターメドレー",
-            "level": {
+            "分类": "game",
+            "曲名": "モンスターハンターメドレー",
+            "等级": {
                 "easy": 4,
                 "normal": 5,
                 "hard": 6,
                 "oni": 7
             },
-            "name_cn": "怪物虐人组曲(AC14)"
+            "注释": "怪物虐人组曲(AC14)"
         },
         {
-            "category": "游戏音乐",
-            "name": "序曲IX 「ドラゴンクエストIX」より",
-            "level": {
+            "分类": "game",
+            "曲名": "序曲IX 「ドラゴンクエストIX」より",
+            "等级": {
                 "easy": 3,
                 "normal": 4,
                 "hard": 4,
                 "oni": 3
             },
-            "name_cn": "勇者斗恶龙(AC14)"
+            "注释": "勇者斗恶龙(AC14)"
         },
         {
-            "category": "游戏音乐",
-            "name": "スーパーマリオブラザーズ",
-            "level": {
+            "分类": "game",
+            "曲名": "スーパーマリオブラザーズ",
+            "等级": {
                 "easy": 4,
                 "normal": 5,
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": "超级马里奥兄弟组曲"
+            "注释": "超级马里奥兄弟组曲"
         },
         {
-            "category": "游戏音乐",
-            "name": "オーバーマスター",
-            "level": {
+            "分类": "game",
+            "曲名": "オーバーマスター",
+            "等级": {
                 "easy": 4,
                 "normal": 6,
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": "爱豆骂死他系列(PSV MS)"
+            "注释": "爱豆骂死他系列(PSV MS)"
         },
         {
-            "category": "游戏音乐",
-            "name": "relations",
-            "level": {
+            "分类": "game",
+            "曲名": "relations",
+            "等级": {
                 "easy": 3,
                 "normal": 5,
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "爱豆骂死他系列(PSV MS)"
+            "注释": "爱豆骂死他系列(PSV MS)"
         },
         {
-            "category": "游戏音乐",
-            "name": "エージェント夜を往く",
-            "level": {
+            "分类": "game",
+            "曲名": "エージェント夜を往く",
+            "等级": {
                 "easy": 4,
                 "normal": 4,
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "爱豆骂死他系列(PSV MS)"
+            "注释": "爱豆骂死他系列(PSV MS)"
         },
         {
-            "category": "游戏音乐",
-            "name": "キラメキラリ",
-            "level": {
+            "分类": "game",
+            "曲名": "キラメキラリ",
+            "等级": {
                 "easy": 3,
                 "normal": 6,
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": "爱豆骂死他系列"
+            "注释": "爱豆骂死他系列"
         },
         {
-            "category": "游戏音乐",
-            "name": "もじぴったんメドレー",
-            "level": {
+            "分类": "game",
+            "曲名": "もじぴったんメドレー",
+            "等级": {
                 "easy": 4,
                 "normal": 4,
                 "hard": 3,
                 "oni": 7
             },
-            "name_cn": "文字拼图组曲(PS4 1)"
+            "注释": "文字拼图组曲(PS4 1)"
         },
         {
-            "category": "游戏音乐",
-            "name": "ソウルキャリバーII",
-            "level": {
+            "分类": "game",
+            "曲名": "ソウルキャリバーII",
+            "等级": {
                 "easy": 3,
                 "normal": 5,
                 "hard": 5,
                 "oni": 7
             },
-            "name_cn": "剑魂2"
+            "注释": "剑魂2"
         },
         {
-            "category": "游戏音乐",
-            "name": "KAGEKIYO",
-            "level": {
+            "分类": "game",
+            "曲名": "KAGEKIYO",
+            "等级": {
                 "easy": 4,
                 "normal": 5,
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": "源平"
+            "注释": "源平"
         },
         {
-            "category": "游戏音乐",
-            "name": "KAGEKIYO（裏）",
-            "level": {
+            "分类": "game",
+            "曲名": "KAGEKIYO（裏）",
+            "等级": {
                 "easy": "",
                 "normal": "",
                 "hard": "",
                 "oni": 10
             },
-            "name_cn": "里源平"
+            "注释": "里源平"
         },
         {
-            "category": "游戏音乐",
-            "name": "Kamikaze Remix",
-            "level": {
+            "分类": "game",
+            "曲名": "Kamikaze Remix",
+            "等级": {
                 "easy": 3,
                 "normal": 6,
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": ""
+            "注释": ""
         },
         {
-            "category": "游戏音乐",
-            "name": "Ridge Racer",
-            "level": {
+            "分类": "game",
+            "曲名": "Ridge Racer",
+            "等级": {
                 "easy": 4,
                 "normal": 7,
                 "hard": 8,
                 "oni": 8
             },
-            "name_cn": ""
+            "注释": ""
         },
         {
-            "category": "游戏音乐",
-            "name": "Ridge Racer（裏）",
-            "level": {
+            "分类": "game",
+            "曲名": "Ridge Racer（裏）",
+            "等级": {
                 "easy": "",
                 "normal": "",
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": ""
+            "注释": ""
         },
         {
-            "category": "游戏音乐",
-            "name": "メタルホーク BGM1",
-            "level": {
+            "分类": "game",
+            "曲名": "メタルホーク BGM1",
+            "等级": {
                 "easy": 5,
                 "normal": 6,
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": ""
+            "注释": ""
         },
         {
-            "category": "游戏音乐",
-            "name": "DESERT STORM",
-            "level": {
+            "分类": "game",
+            "曲名": "DESERT STORM",
+            "等级": {
                 "easy": 4,
                 "normal": 5,
                 "hard": 6,
                 "oni": 8
             },
-            "name_cn": "(3DS2)"
+            "注释": "(3DS2)"
         },
         {
-            "category": "游戏音乐",
-            "name": "負け犬返上 feat.蟹プリンス",
-            "level": {
+            "分类": "game",
+            "曲名": "負け犬返上 feat.蟹プリンス",
+            "等级": {
                 "easy": 4,
                 "normal": 5,
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": "(AC14)"
+            "注释": "(AC14)"
         },
         {
-            "category": "游戏音乐",
-            "name": "KARMA(Tatsujin Mix)",
-            "level": {
+            "分类": "game",
+            "曲名": "KARMA(Tatsujin Mix)",
+            "等级": {
                 "easy": 4,
                 "normal": 6,
                 "hard": 7,
                 "oni": 9
             },
-            "name_cn": ""
+            "注释": ""
         },
         {
-            "category": "游戏音乐",
-            "name": "戦え！T3防衛隊 ～GDI mix～",
-            "level": {
+            "分类": "game",
+            "曲名": "戦え！T3防衛隊 ～GDI mix～",
+            "等级": {
                 "easy": 4,
                 "normal": 4,
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "注释": ""
         },
         {
-            "category": "游戏音乐",
-            "name": "IN THE ZONE",
-            "level": {
+            "分类": "game",
+            "曲名": "IN THE ZONE",
+            "等级": {
                 "easy": 4,
                 "normal": 6,
                 "hard": 8,
                 "oni": 9
             },
-            "name_cn": ""
+            "注释": ""
         },
         {
-            "category": "游戏音乐",
-            "name": "No Way Back",
-            "level": {
+            "分类": "game",
+            "曲名": "No Way Back",
+            "等级": {
                 "easy": 4,
                 "normal": 6,
                 "hard": 7,
                 "oni": 8
             },
-            "name_cn": ""
+            "注释": ""
         },
         {
-            "category": "游戏音乐",
-            "name": "No Way Back（裏）",
-            "level": {
+            "分类": "game",
+            "曲名": "No Way Back（裏）",
+            "等级": {
                 "easy": "",
                 "normal": "",
                 "hard": "",
                 "oni": 9
             },
-            "name_cn": ""
+            "注释": ""
         },
         {
-            "category": "游戏音乐",
-            "name": "Doom Noiz",
-            "level": {
+            "分类": "game",
+            "曲名": "Doom Noiz",
+            "等级": {
                 "easy": 5,
                 "normal": 6,
                 "hard": 8,
                 "oni": 10
             },
-            "name_cn": ""
+            "注释": ""
         }
     ]
 }
