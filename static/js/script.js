@@ -234,6 +234,7 @@ docReady(() => {
                 Roll歌按钮.removeAttribute('disabled');
                 // 再打乱一次歌单
                 shuffleArray(抽奖歌单);
+                console.log('更新后的歌单：', 抽奖歌单);
                 A = 0;
             }
         }
