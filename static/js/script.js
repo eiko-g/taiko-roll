@@ -256,6 +256,12 @@ docReady(() => {
         }
         getEl('#category-list').innerHTML = html;
     }
+    getEl('#select-all-cat').addEventListener('click', () => {
+        let cats = getEl('.cat-item input');
+        cats.forEach(item => {
+            item.checked = false;
+        });
+    });
     //#endregion
 
     // Roll 歌！
