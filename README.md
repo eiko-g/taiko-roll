@@ -1,7 +1,7 @@
 # 太鼓达人抽歌网页
 随便写的，自用。
 
-预览：[https://taiko.maimoe.in](https://taiko.maimoe.in)
+预览：[https://roll.maimoe.in/taiko](https://roll.maimoe.in/taiko)
 
 ## 曲目信息
 整理了 14 的全曲目列表，并且对比了新基准，一点发现：
